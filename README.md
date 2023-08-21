@@ -35,7 +35,19 @@ In my opinion, I thought that the dataset in this paper would be biased because 
 
 ## Expriment
 
-asdf 
+#### 소수인 경우 질문
+1. Is {number} a prime number?
+2. Is {number} a prime number? \nLet's think step by step
+3. Is {number} a composite number?
+4. Is {number} a composite number? \nLet's think step by step
+
+#### 합성수인 경우 질문
+1. Is {number} a prime number?
+2. Is {number} a prime number? \nLet's think step by step
+3. Is {number} a composite number?
+4. Is {number} a composite number? \nLet's think step by step
+5. Is {number} divisible by {factor1}?
+6. Is {number} divisible by {factor2}?
 
 ## Result
 
