@@ -25,17 +25,12 @@ In my opinion, I thought that the dataset in this paper would be biased because 
 #### 합성수 (composite number)
 1. 2자리의 합성수
 2. 3자리의 합성수
- 
 2-1. 10 이하의 수 * a
-
 2-2. 50 이하의 수 * a
 
 3. 4자리의 합성수
-
 3-1. 10이하의 수 * a
-
 3-2. 50이하의 수 * a
-
 3-3. 50이상의 수 * a 
 
 ## Expriment
