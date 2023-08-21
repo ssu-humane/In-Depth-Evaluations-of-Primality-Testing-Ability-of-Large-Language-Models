@@ -486,4 +486,12 @@ Therefore, 97 is a prime number.
 ###
 No, 97 is not a composite number. It is a prime number because it only has two distinct positive divisors - 1 and 97.
 ###
-To determine if a number is composite, we need to check if it is divisible by any number other than 1 and itself. In the case of 97, we need to check if it is divisible by any prime numbers smaller than it.
+To determine if 97 is a composite number, we need to check if it has any factors other than 1 and itself. 
+
+We can start by checking if any numbers from 2 to square root of 97 divide evenly into 97. 
+
+The square root of 97 is approximately 9.85, so we only need to check for factors up to 9. 
+
+Upon checking, we find that no numbers from 2 to 9 divide evenly into 97. 
+
+Since 97 does not have any factors other than 1 and itself, we can conclude that 97 is a prime number, not a composite number.
