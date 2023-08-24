@@ -46,8 +46,8 @@ In my opinion, I thought that the dataset in this paper would be biased because 
 2. Is {number} a prime number? \nLet's think step by step
 3. Is {number} a composite number? The answer is:
 4. Is {number} a composite number? \nLet's think step by step
-5. Is {number} divisible by {factor1}?
-6. Is {number} divisible by {factor2}?
+5. Is {number} divisible by {factor1}? Answer with either Yes or No.
+6. Is {number} divisible by {factor2}? Answer with either Yes or No.
 
 ## Result
 
