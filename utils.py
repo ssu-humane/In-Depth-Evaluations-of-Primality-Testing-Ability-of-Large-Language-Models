@@ -20,5 +20,12 @@ def chatgpt(query):
         messages=messages
     )
     answer = response['choices'][0]['message']['content']
-    print(answer)
+    # print(answer)
     return answer 
+
+def write_output(question, file_path):
+    answer = chatgpt(question)
+    answer = "###\n" + answer + "\n"
+    f = open(file_path, "a", encoding="UTF-8")
+    f.write(answer)
+    f.close()
