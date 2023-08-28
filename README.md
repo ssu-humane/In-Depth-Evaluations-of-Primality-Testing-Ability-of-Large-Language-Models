@@ -51,7 +51,7 @@ In my opinion, I thought that the dataset in this paper would be biased because 
 
 ## Result
 
-|제목|내용|설명|설명|설명|설명|설명|
+|제목|Q1|Q2|Q3|Q4|Q5|Q6|
 |------|---|---|---|---|---|---|
 |테스트1|Q1|Q2|Q3|Q4|Q5|Q6|
 |테스트1|테스트2|테스트3|||||
