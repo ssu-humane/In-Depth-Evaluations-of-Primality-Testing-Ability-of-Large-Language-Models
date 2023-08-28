@@ -50,7 +50,7 @@ In my opinion, I thought that the dataset in this paper would be biased because 
 6. Is {number} divisible by {factor2}? Answer with either Yes or No.
    
 #### Yes/No 추출하기
-- (앞에서 한 질문의 output) + (앞에서 한 질문 [stey by step은 replace ""]) + "\nAnswer with either Yes or No.") ["###"제거]
+- (앞에서 한 질문의 output) + (앞에서 한 질문 [stey by step은 replace ""]) + "\nAnswer with either Yes or No.")
 
 ## Result
 
