@@ -1,0 +1,672 @@
+###
+No
+###
+No
+###
+Yes, 899 is a composite number because it has factors other than 1 and itself.
+###
+Yes.
+###
+Yes. 899 is divisible by 29.
+###
+Yes
+###
+No
+###
+No.
+###
+Yes, 517 is a composite number because it has factors other than 1 and itself.
+###
+No, 517 is not a composite number.
+###
+Yes.
+###
+No.
+###
+No, 901 is not a prime number.
+###
+No, 901 is not a prime number.
+###
+No, 901 is not a composite number.
+###
+Yes, 901 is a composite number.
+###
+No
+###
+No. 901 is not divisible by 53.
+###
+No.
+###
+No, 391 is not a prime number.
+###
+Yes, 391 is a composite number.
+###
+Yes, 391 is a composite number.
+###
+Yes.
+###
+No.
+###
+No.
+###
+Yes, 649 is a prime number.
+###
+Yes.
+###
+No
+###
+Yes.
+###
+No.
+###
+No
+###
+No.
+###
+Yes.
+###
+No.
+###
+Yes.
+###
+Yes.
+###
+No
+###
+No, 781 is not a prime number. It is a composite number.
+###
+Yes
+###
+No
+###
+No.
+###
+No.
+###
+No.
+###
+Yes, 893 is a prime number.
+###
+Yes
+###
+No.
+###
+No.
+###
+Yes.
+###
+No
+###
+No, 143 is not a prime number.
+###
+Yes.
+###
+No
+###
+Yes.
+###
+Yes.
+###
+No.
+###
+Yes.
+###
+Yes, 527 is a composite number.
+###
+No. 527 is not a composite number.
+###
+Yes.
+###
+No.
+###
+Yes, 913 is a prime number.
+###
+Yes, 913 is a prime number.
+###
+Yes, 913 is a composite number because it can be divided by numbers other than 1 and itself.
+###
+Yes, 913 is a composite number.
+###
+Yes
+###
+No.
+###
+No.
+###
+No
+###
+Yes, 403 is a composite number.
+###
+No
+###
+Yes.
+###
+Yes.
+###
+No.
+###
+No, 533 is not a prime number.
+###
+Yes.
+###
+Yes
+###
+Yes.
+###
+Yes
+###
+No.
+###
+No, 407 is not a prime number.
+###
+Yes.
+###
+No.
+###
+Yes.
+###
+Yes.
+###
+No.
+###
+Yes, 793 is a prime number.
+###
+Yes.
+###
+Yes, 793 is a composite number.
+###
+Yes.
+###
+No.
+###
+No
+###
+No.
+###
+Yes, 923 is a composite number.
+###
+Yes.
+###
+Yes, 923 is divisible by 13.
+###
+No.
+###
+No
+###
+No.
+###
+Yes, 667 is a composite number.
+###
+No
+###
+Yes.
+###
+Yes
+###
+No.
+###
+Yes, 671 is a prime number.
+###
+Yes
+###
+Yes. 671 is a composite number.
+###
+No.
+###
+Yes.
+###
+No
+###
+No
+###
+Yes.
+###
+No.
+###
+Yes.
+###
+No.
+###
+No
+###
+Yes, 803 is a prime number.
+###
+Yes, 803 is a composite number.
+###
+No.
+###
+No.
+###
+No.
+###
+No.
+###
+No.
+###
+Yes, 551 is a composite number.
+###
+Yes.
+###
+No.
+###
+No.
+###
+No
+###
+No.
+###
+Yes
+###
+Yes
+###
+Yes.
+###
+Yes
+###
+No, 559 is not a prime number.
+###
+No. 559 is not a prime number.
+###
+Yes.
+###
+Yes, 559 is a composite number.
+###
+Yes
+###
+Yes
+###
+No.
+###
+No, 943 is not a prime number.
+###
+Yes.
+###
+No
+###
+No.
+###
+Yes, 943 is divisible by 41.
+###
+No
+###
+Yes, 689 is a prime number.
+###
+Yes.
+###
+No.
+###
+Yes.
+###
+No.
+###
+No.
+###
+No
+###
+Yes, 817 is a composite number.
+###
+No. 817 is not a composite number.
+###
+No.
+###
+Yes.
+###
+No.
+###
+No.
+###
+Yes.
+###
+Yes, 949 is a composite number.
+###
+Yes, 949 is divisible by 13 because 949 ÷ 13 = 73.
+###
+Yes
+###
+No.
+###
+No, 437 is not a prime number.
+###
+Yes, 437 is a composite number.
+###
+No
+###
+No
+###
+Yes.
+###
+Yes, 697 is a prime number.
+###
+Yes, 697 is a prime number.
+###
+Yes, 697 is a composite number.
+###
+Yes.
+###
+No.
+###
+Yes.
+###
+No.
+###
+No.
+###
+Yes, 187 is a composite number.
+###
+No.
+###
+Yes.
+###
+No.
+###
+No.
+###
+No.
+###
+Yes, 319 is a composite number.
+###
+Yes, 319 is a composite number.
+###
+Yes.
+###
+Yes.
+###
+No
+###
+No
+###
+Yes, 703 is a composite number.
+###
+Yes.
+###
+Yes.
+###
+Yes.
+###
+No.
+###
+Yes.
+###
+Yes, 451 is a composite number.
+###
+Yes, 451 is a composite number.
+###
+Yes, 451 is divisible by 11.
+###
+Yes.
+###
+No
+###
+No. 323 is not a prime number.
+###
+Yes, 323 is a composite number.
+###
+No.
+###
+Yes
+###
+No
+###
+No, 583 is not a prime number.
+###
+Yes, 583 is a prime number.
+###
+Yes, 583 is a composite number.
+###
+No.
+###
+No.
+###
+No.
+###
+Yes, 713 is a prime number.
+###
+No, 713 is not a prime number.
+###
+Yes, 713 is a composite number.
+###
+No
+###
+Yes.
+###
+Yes.
+###
+No. 589 is not a prime number.
+###
+Yes, 589 is a prime number.
+###
+Yes, 589 is a composite number.
+###
+Yes
+###
+Yes.
+###
+Yes
+###
+No
+###
+No, 209 is not a prime number.
+###
+Yes, 209 is a composite number.
+###
+Yes, 209 is a composite number.
+###
+No.
+###
+Yes.
+###
+No
+###
+No.
+###
+Yes, 979 is a composite number.
+###
+No. 979 is a prime number.
+###
+Yes.
+###
+No.
+###
+No, 851 is not a prime number.
+###
+Yes, 851 is a prime number.
+###
+Yes, 851 is a composite number.
+###
+Yes.
+###
+Yes. 851 is divisible by 23.
+###
+Yes.
+###
+No. 341 is not a prime number
+###
+No, 341 is not a prime number.
+###
+Yes
+###
+Yes, 341 is a composite number.
+###
+Yes.
+###
+No.
+###
+No.
+###
+Yes, 473 is a prime number.
+###
+Yes, 473 is a composite number.
+###
+No.
+###
+No.
+###
+Yes
+###
+Yes, 731 is a prime number.
+###
+Yes, 731 is a prime number.
+###
+No
+###
+No
+###
+Yes.
+###
+Yes.
+###
+No.
+###
+No.
+###
+Yes
+###
+No.
+###
+Yes.
+###
+Yes
+###
+No.
+###
+Yes.
+###
+Yes, 989 is a composite number because it has factors other than 1 and itself.
+###
+No.
+###
+No.
+###
+No.
+###
+No.
+###
+Yes, 737 is a prime number.
+###
+Yes.
+###
+No.
+###
+Yes.
+###
+No, 737 is not divisible by 67.
+###
+No.
+###
+Yes, 481 is a prime number.
+###
+Yes, 481 is a composite number.
+###
+No.
+###
+Yes.
+###
+No.
+###
+No.
+###
+Yes, 611 is a prime number.
+###
+Yes.
+###
+Yes, 611 is a composite number.
+###
+No.
+###
+No.
+###
+No.
+###
+No, 869 is not a prime number.
+###
+Yes
+###
+Yes.
+###
+Yes.
+###
+No.
+###
+No
+###
+No.
+###
+Yes, 871 is a composite number.
+###
+No
+###
+Yes
+###
+Yes
+###
+No. 493 is not a prime number.
+###
+Yes.
+###
+Yes.
+###
+No.
+###
+Yes.
+###
+No.
+###
+No.
+###
+No.
+###
+Yes, 629 is a composite number.
+###
+Yes, 629 is a composite number.
+###
+Yes.
+###
+Yes
+###
+No.
+###
+No
+###
+Yes, 247 is a composite number.
+###
+Yes.
+###
+Yes.
+###
+No.
+###
+No
+###
+No, 377 is not a prime number.
+###
+Yes, 377 is a composite number because it has factors other than 1 and itself.
+###
+No.
+###
+Yes.
+###
+Yes, 377 is divisible by 29.
+###
+No.
+###
+Yes
+###
+Yes, 253 is a composite number.
+###
+Yes
+###
+Yes.
+###
+Yes.
+###
+No.
+###
+Yes.
+###
+Yes
+###
+Yes
+###
+No.
+###
+No
