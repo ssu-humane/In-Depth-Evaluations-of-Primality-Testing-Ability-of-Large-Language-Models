@@ -53,6 +53,9 @@ In my opinion, I thought that the dataset in this paper would be biased because 
 - (앞에서 한 질문의 output) + (앞에서 한 질문 [stey by step은 replace ""]) + "\nAnswer with either Yes or No.")
 - 결론과 질문을 가깝게 배치하기 위해서 output -> 질문 -> Yes/No 순으로 프롬프트를 넣었음.
 - 합성수 Q5, Q6 output은 그대로 사용함.
+  
+## Sampling 정확도 측정
+
 ## Result
 
 |제목|Q1 Acc|Q2 Acc|Q3 Acc|Q4 Acc|Q5 Acc|Q6 Acc|데이터 수|
