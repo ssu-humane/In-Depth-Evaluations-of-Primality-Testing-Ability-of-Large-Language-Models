@@ -54,7 +54,6 @@ In my opinion, I thought that the dataset in this paper would be biased because 
 - 결론과 질문을 가깝게 배치하기 위해서 output -> 질문 -> Yes/No 순으로 프롬프트를 넣었음.
 - 합성수 Q5, Q6 output은 그대로 사용함.
   
-## Sampling 정확도 측정
 
 ## Result
 
