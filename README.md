@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=white&height=200&section=header&text=HUMANE_LAB&animation=blink&fontSize=50&fontColor=d6ace6)
 
-# In-Depth Evaluations of Primality Testing Ability of Large Language Models
+# LLM-Primality-Testing-Dataset
 :octocat: 2047 개 수로 구성된 소수 및 합성수에 대한 난이도 별 검증 데이터셋을 함께 공개
 ## Dataset
 
