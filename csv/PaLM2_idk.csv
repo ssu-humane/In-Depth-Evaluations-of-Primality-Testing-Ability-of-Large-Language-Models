@@ -1,0 +1,166 @@
+,Qustion,Output,Predict,Answer,Difficulty,Number
+581_Q2,Q2,"
+To determine if 581 is a prime number, we need to check if it has any factors other than 1 and itself. We can do this by finding all the possible factors of 581.
+",idk,composite,3_digit_easy_composite,581
+955_Q1,Q1,"
+To determine if 581 is a prime number, we need to check if it has any factors other than 1 and itself. We can do this by finding all the possible factors of 581.
+",idk,composite,3_digit_easy_composite,955
+871_Q2,Q2,"
+To determine if 871 is a prime number, we can check if it is divisible by any whole numbers other than 1 and itself. 
+Let's start by dividing it by 2.
+",idk,composite,3_digit_medium_composite,871
+487_Q4,Q4,"
+To determine if 487 is a composite number, we need to check if it is divisible by any numbers besides 1 and itself.
+
+Starting with 2, we can check if 487 is divisible by 2.
+",idk,prime,3_digit_prime,487
+613_Q4,Q4,"
+Yes, let's think step by step.
+
+To determine if 613 is a composite number, we need to check if it has any factors other than 1 and itself. 
+
+To do this, we can check if any numbers between 2 and the square root of 613 divide evenly into 613 without leaving a remainder.
+
+Let's calculate the square root of 613.
+",idk,prime,3_digit_prime,613
+5739_Q2,Q2,"
+To determine if a number is prime, we need to check if it is divisible by any number other than 1 and itself.
+
+We can start by checking if 5739 is divisible by 2. If it is, then it is not prime.
+",idk,composite,4_digit_easy_composite,5739
+5079_Q4,Q4,"
+Yes, let's think step by step. A composite number is a positive integer greater than 1 that has factors other than 1 and itself. To determine if 5079 is a composite number, we need to check if any integers other than 1 and 5079 divide it evenly.
+",idk,composite,4_digit_easy_composite,5079
+9598_Q2,Q2,"
+To determine if 9598 is a prime number, we need to check if it is divisible by any number other than 1 and itself.
+
+First, we can check if it is divisible by any number less than its square root, rounded up to the nearest whole number. The square root of 9598 is approximately 98.9
+
+Next, we can check if it is divisible by any odd number less than or equal to the square root of 9598. This includes checking for divisibility by 3, 5, 7, 9... up to 97.
+
+Let's do the calculations to check for divisibility.
+",idk,composite,4_digit_easy_composite,9598
+9838_Q2,Q2,"
+To determine if 9838 is a prime number, we need to check if it is divisible by any number other than 1 and itself. We can do this by checking for division until the square root of 9838. 
+
+The square root of 9838 is approximately 99.18. Therefore, we only need to check for division until 99. 
+
+Let's check if 9838 is divisible by any number between 2 and 99.
+",idk,composite,4_digit_easy_composite,9838
+7405_Q2,Q2,"
+To determine if 7405 is a prime number, we will check for divisibility by all prime numbers up to the square root of 7405.
+The prime numbers up to the square root of 7405 are: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, and 47.
+
+Now, we will check if 7405 is divisible by any of these numbers.
+",idk,composite,4_digit_easy_composite,7405
+6835_Q2,Q2,"
+To determine if a number is prime, we need to check if it is divisible by any number other than 1 and itself. 
+
+In this case, we can start by checking if 6835 is divisible by 2. Since 6835 is an odd number, it is not divisible by 2. 
+
+Next, we can check if 6835 is divisible by any odd numbers up to its square root, which is approximately 82.7. We don't need to go beyond the square root because if a number is divisible by a larger number, it must also be divisible by a smaller number.
+
+Starting with 3, we can check if 6835 is divisible by each odd number until 83.
+",idk,composite,4_digit_easy_composite,6835
+6835_Q4,Q4,"
+To determine if 6835 is a composite number, let's check if it has any factors other than 1 and itself. 
+
+We can start by checking if it is divisible by 2.
+",idk,composite,4_digit_easy_composite,6835
+9874_Q2,Q2,"
+To check if a number is prime, we need to divide it by all the numbers less than it and greater than 1.
+
+So, let's start by checking if 9874 is divisible by 2.
+",idk,composite,4_digit_easy_composite,9874
+5906_Q4,Q4,"
+To determine if a number is composite, we need to check if it is divisible by any numbers other than 1 and itself.
+
+The number 5906 is not divisible by 2, as the last digit is not even.
+
+To check if it is divisible by 3, we add all the digits together: 5 + 9 + 0 + 6 = 20. The sum is not divisible by 3 since 20 is not divisible by 3.
+
+Since it is not divisible by either 2 or 3, it is safe to say that it is not divisible by any smaller prime numbers. Therefore, 5906 could still be a composite number.
+
+To continue, we can check divisibility by other prime numbers such as 5 or 7, or we can attempt to find a factor by using a different method, like prime factorization or using a calculator.
+",idk,composite,4_digit_easy_composite,5906
+8726_Q2,Q2,"
+To determine if 8726 is a prime number, we need to check if it is divisible by any number other than 1 and itself.
+Let's start by checking if it is divisible by 2.
+",idk,composite,4_digit_easy_composite,8726
+8201_Q4,Q4,"
+To determine if 8201 is a composite number, we need to check if it has any factors other than 1 and itself.
+",idk,composite,4_digit_hard_composite,8201
+6283_Q2,Q2,"
+To determine if 6283 is a prime number, we can check if it is divisible by any whole numbers except for 1 and itself. We can start by checking if it is divisible by 2.
+",idk,composite,4_digit_hard_composite,6283
+5963_Q4,Q4,"
+To determine if a number is composite, we need to check if it has any factors other than 1 and itself. 
+
+To do this, let's find the factors of 5963. We can start by dividing it by 2.
+",idk,composite,4_digit_hard_composite,5963
+6437_Q4,Q4,"
+To determine if 6437 is a composite number, we need to check if it has any factors besides 1 and itself. 
+
+One way to check is by finding the prime factors of 6437. We can start by dividing it by the smallest prime number, which is 2.
+",idk,composite,4_digit_medium_composite,6437
+2413_Q4,Q4,"
+To determine if 2413 is a composite number, we need to check if it has any factors other than 1 and itself.
+",idk,composite,4_digit_medium_composite,2413
+3263_Q4,Q4,"
+To determine if a number is composite, we need to check if it has any factors other than 1 and itself. In this case, we can start by checking if 2 is a factor of 3263.
+",idk,composite,4_digit_medium_composite,3263
+5713_Q2,Q2,"
+To determine if 5713 is a prime number, we need to check if it is divisible by any number other than 1 and itself. 
+
+One way to check this is to try dividing 5713 by all prime numbers up to its square root, which is approximately 75.57. 
+
+Let's do the calculation.
+",idk,composite,4_digit_medium_composite,5713
+9691_Q4,Q4,"
+To determine if a number is composite, we need to check if it is divisible by any number other than 1 and itself. 
+
+Let's start by finding the square root of 9691. 
+
+√9691 ≈ 98.4371
+",idk,composite,4_digit_medium_composite,9691
+1151_Q4,Q4,"
+To determine if 1151 is a composite number, we need to check if it has any factors other than 1 and itself. 
+
+We can start by checking if 1151 is divisible by 2.
+",idk,prime,4_digit_prime,1151
+7741_Q2,Q2,"
+To determine if 7741 is a prime number, we can check for any divisors of 7741 other than 1 and itself. 
+
+To do this, we can start by finding the square root of 7741. Let's calculate it.
+",idk,prime,4_digit_prime,7741
+5179_Q2,Q2,"
+To determine if 5179 is a prime number, we need to check if it has any factors other than 1 and itself.
+",idk,prime,4_digit_prime,5179
+3463_Q4,Q4,"
+To determine if 3463 is a composite number, we need to check if it has any factors other than 1 and itself.
+The next step is to find the prime factors of 3463.
+",idk,prime,4_digit_prime,3463
+3833_Q4,Q4,"
+To determine if a number is composite, we need to check if it is divisible by any number other than 1 and itself. In this case, we have to check if 3833 is divisible by any prime numbers.
+To find prime divisors, we need to divide 3833 by prime numbers starting from 2 and continuing until the square root of 3833.
+",idk,prime,4_digit_prime,3833
+4679_Q4,Q4,"
+To determine if a number is composite, we need to check if it has any factors other than 1 and itself. 
+
+To do this, we can find the prime factorization of the number. 
+
+Let's start by finding the prime factors of 4679.
+",idk,prime,4_digit_prime,4679
+8923_Q4,Q4,"
+To determine if a number is composite, we need to check if it is divisible by any numbers other than 1 and itself.
+
+Let's start by checking if 8923 is divisible by 2 or 3, which are the two smallest prime numbers that could potentially divide it.
+",idk,prime,4_digit_prime,8923
+4007_Q4,Q4,"
+To determine if a number is composite, we need to check if it has any divisors other than 1 and itself. 
+
+We can start by checking if 4007 is divisible by 2.
+",idk,prime,4_digit_prime,4007
+9067_Q4,Q4,"
+To determine if 9067 is a composite number, we need to check if it has any factors other than 1 and itself.
+",idk,prime,4_digit_prime,9067
