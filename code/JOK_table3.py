@@ -6,12 +6,16 @@ import csv
 
 
 warnings.filterwarnings('ignore')
-#save_file =  pd.DataFrame(columns=['query', 'output', 'result'])
 fields = ['query', 'output', 'result']
 save_file = []
 text_files, json_files = utils.return_file_path() 
 cnt = 0
 idk_cnt = 0
+
+composite_acc = [[0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]
+composite_query_cnt = [0, 0, 0]
+acc_dict = {}
+
 for text_file, json_file in zip(text_files, json_files):
     output = "" 
     start_idx = 0 
@@ -25,7 +29,6 @@ for text_file, json_file in zip(text_files, json_files):
     for query in querys:
         query = list(query.values())
         for i in range(len(query)-2):
-            # return output 함수가 이상한 것 같기도? # 질문이랑 맞는지 확인해야함.
             output, start_idx = utils.return_output(text_file, start_idx)
             
             if i >= 4:
@@ -50,18 +53,27 @@ for text_file, json_file in zip(text_files, json_files):
             save_file.append([query[i], output, result])
 
     utils.pretty_print(acc_list=acc, data_type=data_type, len_q=len(querys))
-    
-    
-    print(f"\nidk rate:{q_idk_cnt / q_cnt * 100}%")
-    print(f"idk cnt:{q_idk_cnt} / {q_cnt}")
-    print(f"q cnt: {q_cnt//4}\n")
 
+    if number_type == "composite":
+        # print(data_type)
+        if data_type[0] == "2":
+            composite_acc[0] += acc 
+            composite_query_cnt[0] += len(querys)
+        elif data_type[0] == "3":
+            composite_acc[1] += acc 
+            composite_query_cnt[1] += len(querys)
+        elif data_type[0] == "4":
+            composite_acc[2] += acc
+            composite_query_cnt[2] += len(querys)
+                         
+for i in range(len(composite_acc)):
+    composite_acc[i] = (composite_acc[i] / composite_query_cnt[i]) * 100
 
+for acc_list in composite_acc:
+    for i in range(len(acc_list)):
+        print(f"Q{i+1} acc : {acc_list[i]:.2f}")
 
-print(f"\ntotal idk rate:{idk_cnt / cnt * 100}%")
-print(f"total idk cnt:{idk_cnt} / {cnt}")
-print(f"total cnt: {cnt//4}\n")
-
+# print(idk_cnt / cnt * 100)
 # with open('sampling_script.csv', 'w', encoding="utf-8") as f:
      
 #     # using csv.writer method from CSV package

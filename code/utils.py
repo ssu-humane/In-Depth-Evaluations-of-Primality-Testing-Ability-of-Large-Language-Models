@@ -40,11 +40,11 @@ def write_output(question, file_path):
 def return_file_path():
     output_file_lst = os.listdir("../output")
     output_file_lst = ["../output/"+ file for file in output_file_lst]
-    yes_no_file_lst = os.listdir("../yes_no")
-    yes_no_file_lst = ["../yes_no/"+ file for file in yes_no_file_lst]
+    # yes_no_file_lst = os.listdir("../yes_no")
+    # yes_no_file_lst = ["../yes_no/"+ file for file in yes_no_file_lst]
     json_file_lst = os.listdir("../json")
     json_file_lst = ["../json_sampled/"+ file for file in json_file_lst]
-    return output_file_lst, yes_no_file_lst, json_file_lst
+    return output_file_lst,  json_file_lst
 
 def make_output(save_file, json_file):
     with open(json_file) as file:
@@ -159,12 +159,15 @@ def return_PrimeOrComposite(output, i):
         
     if (i==0 or i==1) and (re.search("[Yy]es", output)):
         return "prime"
-    if (i==2 or i==3) and re.search("[Nn]o", output):
+    if (i==0 or i==1) and re.search("[Nn]o", output):
+        return "composite"  
+    if (i==2 or i==3) and re.search("[Yy]es", output):
         return "composite"
     if (i==2 or i==3) and re.search("[Nn]o", output):
         return "prime"
-    if (i==0 or i==1) and re.search("[Yy]es", output):
-        return "composite"    
+ 
+
+ 
     
     
     return "idk"
