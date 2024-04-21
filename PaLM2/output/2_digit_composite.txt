@@ -1,0 +1,837 @@
+###
+no
+###
+10 is divisible by 2 and 5. So 10 is not a prime number.
+###
+yes
+###
+10 is divisible by 2 and 5. 10 is a composite number.
+###
+Yes
+###
+Yes
+###
+no
+###
+12 is divisible by 2, 3, 4, 6, and 12. So 12 is not a prime number.
+###
+yes
+###
+12 is divisible by 2, 3, 4, 6, and 12. So 12 is a composite number.
+###
+Yes
+###
+Yes
+###
+no
+###
+14 is divisible by 2 and 7. 14 is not a prime number.
+###
+yes
+###
+14 is divisible by 2 and 7. 14 is a composite number.
+###
+Yes
+###
+No
+###
+no
+###
+15 is divisible by 3. 15 is not a prime number.
+###
+yes
+###
+15 is divisible by 3 and 5. 15 is a composite number.
+###
+No
+###
+Yes
+###
+no
+###
+16 is divisible by 2, 4, 8, and 16. So 16 is not a prime number.
+###
+yes
+###
+16 is divisible by 2, 4, 8, and 16. 16 is a composite number.
+###
+Yes
+###
+Yes
+###
+no
+###
+18 is divisible by 2, 3, and 6. So 18 is not a prime number.
+###
+yes
+###
+18 is divisible by 2, 3, and 6. 18 is a composite number.
+###
+Yes
+###
+Yes
+###
+no
+###
+20 is divisible by 2, 4, 5, and 10. So 20 is not a prime number.
+###
+yes
+###
+20 is divisible by 2, 4, 5, and 10. So 20 is a composite number.
+###
+Yes
+###
+Yes
+###
+no
+###
+21 is divisible by 3. 21 is not a prime number.
+###
+yes
+###
+21 is divisible by 3. 21 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+22 is divisible by 2, 11, and itself. So 22 is not a prime number.
+###
+yes
+###
+22 is divisible by 2, 11, and 1. So 22 is a composite number.
+###
+Yes
+###
+No
+###
+no
+###
+24 is divisible by 2, 3, 4, 6, 8, 12, and 24. So 24 is not a prime number.
+###
+yes
+###
+24 is divisible by 2, 3, 4, 6, 8, 12, and 24. So 24 is a composite number.
+###
+Yes
+###
+Yes
+###
+no
+###
+25 is divisible by 5. 5 is not 1 or 25. So 25 is not a prime number.
+###
+yes
+###
+25 is divisible by 5. 25 is a composite number.
+###
+Yes
+###
+Yes
+###
+no
+###
+26 is divisible by 2, 13, and 1. So 26 is not a prime number.
+###
+yes
+###
+26 is divisible by 2, 13, and 1. So 26 is a composite number.
+###
+Yes
+###
+No
+###
+no
+###
+27 is divisible by 3. 27 is not a prime number.
+###
+yes
+###
+27 is divisible by 3. 27 is a composite number.
+###
+No
+###
+Yes
+###
+no
+###
+28 is divisible by 2, 4, 7, and 14. So 28 is not a prime number.
+###
+yes
+###
+28 is divisible by 2, 4, 7, and 14. 28 is a composite number.
+###
+Yes
+###
+No
+###
+no
+###
+30 is divisible by 2, 3, and 5. So 30 is not a prime number.
+###
+yes
+###
+30 is divisible by 2, 3, and 5. 30 is a composite number.
+###
+Yes
+###
+Yes
+###
+no
+###
+32 is divisible by 2, 4, 8, 16, and 32. So 32 is not a prime number.
+###
+yes
+###
+32 is divisible by 2, 4, 8, and 16. 32 is a composite number.
+###
+Yes
+###
+Yes
+###
+no
+###
+33 is an odd number. 33 is not divisible by 2. 33 is not divisible by 3. 33 is not divisible by 5. 33 is not divisible by 7. 33 is not divisible by 9. 33 is not divisible by 11. 33 is not divisible by 13. 33 is not divisible by 15. 33 is not divisible by 17. 33 is not divisible by 19. 33 is not divisible by 21. 33 is
+###
+yes
+###
+33 is divisible by 3 and 11. 33 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+34 is divisible by 2, so it is not a prime number.
+###
+yes
+###
+34 is divisible by 2 and 17. 34 is a composite number.
+###
+Yes
+###
+No
+###
+no
+###
+35 is divisible by 5. 35 is not a prime number.
+###
+yes
+###
+35 is divisible by 5 and 7. 35 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+36 is divisible by 2, 3, 4, 6, 9, 12, 18, and 36. So 36 is not a prime number.
+###
+yes
+###
+36 is divisible by 2, 3, 4, 6, 9, and 12. 36 is a composite number.
+###
+Yes
+###
+Yes
+###
+no
+###
+38 is divisible by 2, so it is not a prime number. The final answer: no.
+###
+yes
+###
+38 is divisible by 2, 19, and 1. So 38 is a composite number.
+###
+Yes
+###
+No
+###
+no
+###
+39 is an odd number. 39 is not divisible by 2. 39 is not divisible by 3. 39 is not divisible by 5. 39 is not divisible by 7. 39 is not divisible by 9. 39 is not divisible by 11. 39 is not divisible by 13. 39 is not divisible by 15. 39 is not divisible by 17. 39 is not divisible by 19. 39 is not divisible by 21. 39 is
+###
+yes
+###
+39 is not prime because 39 is divisible by 3.
+Thus, the final answer is yes.
+###
+No
+###
+No
+###
+no
+###
+40 is divisible by 2, 4, 5, 10, 20. So 40 is not a prime number.
+###
+yes
+###
+40 is divisible by 2, 4, 5, and 10. So 40 is a composite number.
+###
+Yes
+###
+Yes
+###
+no
+###
+42 is divisible by 2, 3, and 7. So 42 is not a prime number.
+###
+yes
+###
+42 is divisible by 2, 3, and 7. 42 is a composite number.
+###
+Yes
+###
+No
+###
+no
+###
+44 is divisible by 2, 4, 11, and 22. So 44 is not a prime number.
+###
+yes
+###
+44 is divisible by 2, 4, and 11. 44 is a composite number.
+###
+Yes
+###
+No
+###
+no
+###
+45 is divisible by 3 because 45 / 3 = 15. 15 is divisible by 3 because 15 / 3 = 5. 5 is a prime number because it is only divisible by 1 and itself. So, 45 is not a prime number.
+###
+yes
+###
+45 is divisible by 3 and 5. 3 and 5 are both prime numbers. 45 is a composite number. The final answer: yes.
+###
+No
+###
+Yes
+###
+no
+###
+46 is divisible by 2, so it is not a prime number. The final answer: no.
+###
+yes
+###
+46 is divisible by 2, 23, and 1. So 46 is a composite number.
+###
+Yes
+###
+No
+###
+no
+###
+48 is divisible by 2, 3, 4, 6, 8, 12, 16, 24. So 48 is not a prime number.
+###
+yes
+###
+48 is divisible by 2, 3, 4, 6, 8, 12, 16, 24. So 48 is a composite number.
+###
+Yes
+###
+Yes
+###
+no
+###
+49 is not prime because it is divisible by 7.
+The final answer: no.
+###
+yes
+###
+49 is divisible by 7. 7 is a prime number. So 49 is a composite number. The final answer: yes.
+###
+No
+###
+No
+###
+no
+###
+50 is divisible by 2, 5, and 10. So 50 is not a prime number.
+###
+yes
+###
+50 is divisible by 2, 5, and 10. 50 is a composite number.
+###
+Yes
+###
+Yes
+###
+no
+###
+51 is an odd number. 51 is not divisible by 2. 51 is not divisible by 3. 51 is not divisible by 5. 51 is not divisible by 7. 51 is not divisible by 9. 51 is not divisible by 11. 51 is not divisible by 13. 51 is not divisible by 15. 51 is not divisible by 17. 51 is not divisible by 19. 51 is not divisible by 21. 51 is
+###
+yes
+###
+51 is not prime because it is divisible by 3.
+Therefore, the final answer is yes.
+###
+No
+###
+No
+###
+no
+###
+52 is divisible by 2, 4, 13, and 26. So 52 is not a prime number.
+###
+yes
+###
+52 is divisible by 2, 4, 13, and 26. So 52 is a composite number.
+###
+Yes
+###
+No
+###
+no
+###
+54 is divisible by 2, 3, 6, 9, and 18. So 54 is not a prime number.
+###
+yes
+###
+54 is divisible by 2, 3, and 6. 54 is a composite number.
+###
+Yes
+###
+Yes
+###
+no
+###
+55 is divisible by 5 and 11. 55 is not a prime number.
+###
+yes
+###
+55 is divisible by 5 and 11. 55 is a composite number.
+###
+Yes
+###
+No
+###
+no
+###
+56 is divisible by 2, 4, 8, 16, and 32. 56 is not a prime number.
+###
+yes
+###
+56 is divisible by 2, 4, 8, 16, and 32. 56 is a composite number.
+###
+Yes
+###
+No
+###
+no
+###
+57 is an odd number. 57 is not divisible by 2. 57 is not divisible by 3. 57 is not divisible by 5. 57 is not divisible by 7. 57 is not divisible by 11. 57 is not divisible by 13. 57 is not divisible by 17. 57 is not divisible by 19. 57 is not divisible by 23. 57 is not divisible by 29. 57 is not divisible by 31. 57
+###
+yes
+###
+57 is divisible by 3 because the sum of its digits is 12, which is divisible by 3. So, the final answer is yes.
+###
+No
+###
+No
+###
+no
+###
+58 is divisible by 2, 7, and 1. So 58 is not a prime number.
+###
+yes
+###
+58 is divisible by 2, 7, and 1. 58 is a composite number.
+###
+Yes
+###
+No
+###
+no
+###
+60 is divisible by 2, 3, 4, 5, 6, 10, 12, 15, 20, 30. So 60 is not a prime number.
+###
+yes
+###
+60 is divisible by 2, 3, 4, 5, and 6. So 60 is a composite number.
+###
+Yes
+###
+Yes
+###
+no
+###
+62 is divisible by 2, so it is not a prime number.
+###
+yes
+###
+62 is divisible by 2, 31, and 21. So 62 is a composite number.
+###
+Yes
+###
+No
+###
+no
+###
+63 is divisible by 3 because 63 / 3 = 21. 21 is divisible by 3 because 21 / 3 = 7. 7 is a prime number because it is only divisible by 1 and itself. So 63 is not a prime number.
+###
+yes
+###
+63 is divisible by 3 because 63 / 3 = 21. 63 is divisible by 7 because 63 / 7 = 9. 63 is a composite number because it is divisible by more than 2.
+Therefore, the final answer is yes.
+###
+No
+###
+No
+###
+no
+###
+64 is divisible by 2, 4, 8, 16, 32, and 64. So 64 is not a prime number.
+###
+yes
+###
+64 is divisible by 2, 4, 8, 16, 32, and 64. So 64 is a composite number.
+###
+Yes
+###
+Yes
+###
+no
+###
+65 is an odd number. 65 is not divisible by 2. 65 is not divisible by 3. 65 is not divisible by 5. 65 is not divisible by 7. 65 is not divisible by 11. 65 is not divisible by 13. 65 is not divisible by 17. 65 is not divisible by 19. 65 is not divisible by 23. 65 is not divisible by 29. 65 is not divisible by 31. 65
+###
+yes
+###
+65 is divisible by 5 and 13. 5 and 13 are both prime numbers. 65 is a composite number. The final answer: yes.
+###
+No
+###
+No
+###
+no
+###
+66 is divisible by 2, 3, and 11. So 66 is not a prime number.
+###
+yes
+###
+66 is divisible by 2, 3, and 11. 66 is a composite number.
+###
+Yes
+###
+No
+###
+no
+###
+68 is divisible by 2, 4, 7, and 14. So 68 is not a prime number.
+###
+yes
+###
+68 is divisible by 2, 4, 7, and 14. So 68 is a composite number.
+###
+Yes
+###
+No
+###
+no
+###
+69 is not divisible by 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, or 71. So 69 is a prime number.
+###
+yes
+###
+69 is divisible by 3 and 23. 69 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+70 is divisible by 2, 5, and 7. So 70 is not a prime number.
+###
+yes
+###
+70 is divisible by 2, 5, and 7. 70 is a composite number.
+###
+Yes
+###
+No
+###
+no
+###
+72 is divisible by 2, 3, 4, 6, 8, 9, 12, 18, 24, 36, and 72. So 72 is not a prime number.
+###
+yes
+###
+72 is divisible by 2, 3, 4, 6, 8, 9, 12, 18, 24, 36, and 72. So 72 is a composite number.
+###
+Yes
+###
+Yes
+###
+no
+###
+74 is divisible by 2, 37, and 1. So 74 is not a prime number.
+###
+yes
+###
+74 is divisible by 2, 37, and 1. So 74 is a composite number.
+###
+Yes
+###
+No
+###
+no
+###
+75 is divisible by 3 because 75 / 3 = 25. 25 is divisible by 5 because 25 / 5 = 5. 5 is a prime number. So 75 is not a prime number. The final answer: no.
+###
+yes
+###
+75 is divisible by 3 and 5. 75 is a composite number.
+###
+Yes
+###
+Yes
+###
+no
+###
+76 is divisible by 2, 4, 19, and 38. So 76 is not a prime number.
+###
+yes
+###
+76 is divisible by 2, 4, 19, and 38. So 76 is a composite number.
+###
+Yes
+###
+No
+###
+no
+###
+77 is an odd number. 77 is not divisible by 2. 77 is not divisible by 3. 77 is not divisible by 5. 77 is not divisible by 7. 77 is not divisible by 11. 77 is not divisible by 13. 77 is not divisible by 17. 77 is not divisible by 19. 77 is not divisible by 23. 77 is not divisible by 29. 77 is not divisible by 31. 77
+###
+yes
+###
+77 is divisible by 3 because the sum of its digits is 7 + 7 = 14, which is divisible by 3. So 77 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+78 is divisible by 2, 3, and 13. So 78 is not a prime number.
+###
+yes
+###
+78 is divisible by 2, 3, and 13. 78 is a composite number.
+###
+Yes
+###
+No
+###
+no
+###
+80 is divisible by 2, 4, 5, 8, 10, 16, 20, 40. So 80 is not a prime number.
+###
+yes
+###
+80 is divisible by 2, 4, 5, 8, 10, 16, 20, 40. So 80 is a composite number.
+###
+Yes
+###
+Yes
+###
+no
+###
+81 is divisible by 3. 81 is not a prime number.
+###
+yes
+###
+81 is divisible by 3. 81 is divisible by 9. 81 is divisible by 27. 81 is divisible by 81. 81 is a composite number.
+###
+Yes
+###
+Yes
+###
+no
+###
+82 is divisible by 2, so it is not prime.
+Thus, the answer is no.
+###
+yes
+###
+82 is divisible by 2, 7, and 14. 82 is a composite number.
+###
+Yes
+###
+No
+###
+no
+###
+84 is divisible by 2, 3, 4, 6, 9, 12, 18, 24, 36, 42, and 84. So 84 is not a prime number.
+###
+yes
+###
+84 is divisible by 2, 3, 4, 6, 9, 12, 18, 27, 36, 42, 54, 84. So 84 is a composite number.
+###
+Yes
+###
+No
+###
+no
+###
+85 is divisible by 5 because 85 / 5 = 17. 85 is not divisible by any other number between 1 and 85. So 85 is not a prime number.
+###
+yes
+###
+85 is divisible by 5 and 17. 85 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+86 is divisible by 2, 43, and 1. So 86 is not a prime number.
+###
+yes
+###
+86 is divisible by 2, 7, and 14. 86 is a composite number.
+###
+Yes
+###
+No
+###
+yes
+###
+87 is an odd number. 87 is not divisible by 2. 87 is not divisible by 3. 87 is not divisible by 5. 87 is not divisible by 7. 87 is not divisible by 11. 87 is not divisible by 13. 87 is not divisible by 17. 87 is not divisible by 19. 87 is not divisible by 23. 87 is not divisible by 29. 87 is not divisible by 31. 87
+###
+yes
+###
+87 is not prime because 87 is divisible by 3.
+Thus, the final answer is yes.
+###
+No
+###
+No
+###
+no
+###
+88 is divisible by 2, 4, 11, and 88. So 88 is not a prime number.
+###
+yes
+###
+88 is divisible by 2, 4, 11, and 88. So 88 is a composite number.
+###
+Yes
+###
+No
+###
+no
+###
+90 is divisible by 2, 3, and 5. So 90 is not a prime number.
+###
+yes
+###
+90 is divisible by 2, 3, and 5. 90 is a composite number.
+###
+Yes
+###
+Yes
+###
+no
+###
+91 is not divisible by 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89. So 91 is a prime number.
+###
+yes
+###
+91 is not prime because 91 is divisible by 7.
+Therefore, the final answer is yes.
+###
+No
+###
+No
+###
+no
+###
+92 is divisible by 2, 4, 23, and 46. So 92 is not a prime number.
+###
+yes
+###
+92 is divisible by 2, 4, 23, and 46. So 92 is a composite number.
+###
+Yes
+###
+No
+###
+yes
+###
+93 is an odd number. 93 is not divisible by 2. 93 is not divisible by 3. 93 is not divisible by 5. 93 is not divisible by 7. 93 is not divisible by 9. 93 is not divisible by 11. 93 is not divisible by 13. 93 is not divisible by 15. 93 is not divisible by 17. 93 is not divisible by 19. 93 is not divisible by 21. 93 is
+###
+yes
+###
+93 is not prime because 93 is divisible by 3.
+Therefore, the final answer is yes.
+###
+No
+###
+No
+###
+no
+###
+94 is divisible by 2. 94 is not a prime number.
+###
+yes
+###
+94 is divisible by 2, 7, and 14. 94 is a composite number.
+###
+Yes
+###
+No
+###
+no
+###
+95 is not divisible by 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 91, 93. So 95 is a prime number.
+###
+yes
+###
+95 is divisible by 5 because the last digit is 5. 95 is divisible by 11 because 95 - 5 = 90 and 90 / 11 = 8. 95 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+96 is divisible by 2, 4, 8, 16, 32, and 64. So 96 is not a prime number.
+###
+yes
+###
+96 is divisible by 2, 4, 8, 16, 32, and 64. 96 is a composite number.
+###
+Yes
+###
+Yes
+###
+no
+###
+98 is divisible by 2, so it is not a prime number. The final answer: no.
+###
+yes
+###
+98 is divisible by 2, 7, and 14. 98 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+99 is not a prime number because it is divisible by 3. 3 is a prime number because it is only divisible by 1 and itself.
+The final answer: no.
+###
+yes
+###
+99 is divisible by 3 because the sum of its digits is 9 + 9 = 18, which is divisible by 3. 99 is also divisible by 11 because the difference between its digits is 9 - 9 = 0, which is divisible by 11. Therefore, 99 is a composite number.
+###
+No
+###
+No

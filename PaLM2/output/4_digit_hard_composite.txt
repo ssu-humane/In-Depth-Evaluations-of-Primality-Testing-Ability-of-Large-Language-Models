@@ -1,0 +1,1575 @@
+###
+no
+###
+7169 is divisible by 7. 7169 is not a prime number.
+###
+yes
+###
+7169 is divisible by 7. 7169 is divisible by 11. 7169 is divisible by 13. 7169 is divisible by 17. 7169 is divisible by 19. 7169 is divisible by 23. 7169 is divisible by 29. 7169 is divisible by 31. 7169 is divisible by 37. 7169 is divisible by 41. 7169 is divisible by 
+###
+No
+###
+No
+###
+no
+###
+7171 is divisible by 71. 7171 is not a prime number.
+###
+yes
+###
+7171 is divisible by 7. 7171 is divisible by 11. 7171 is divisible by 77. 7171 is a composite number.
+###
+Yes
+###
+No
+###
+no
+###
+8201 is divisible by 1, 8201, and 343. 8201 is not divisible by 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97,
+###
+yes
+###
+8201 is divisible by 11. 8201 is divisible by 7. 8201 is divisible by 11 and 7. 8201 is a composite number.
+Thus, the answer is yes.
+###
+No
+###
+No
+###
+no
+###
+6667 is divisible by 3 because the sum of its digits is 21, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+6667 is divisible by 3 because the sum of its digits is 21, which is divisible by 3. 6667 is divisible by 7 because the last 3 digits are 667, which is divisible by 7. 6667 is divisible by 11 because the sum of the digits in the even positions is 6 + 6 + 6 = 18, which is divisible by 11. Therefore, 6667 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+3599 is divisible by 3. 3599 is divisible by 7. 3599 is divisible by 11. 3599 is divisible by 13. 3599 is divisible by 17. 3599 is divisible by 19. 3599 is divisible by 23. 3599 is divisible by 29. 3599 is divisible by 31. 3599 is divisible by 37. 3599 is divisible by 4
+###
+yes
+###
+3599 is divisible by 3 because the sum of its digits is 3 + 5 + 9 + 9 = 26, which is divisible by 3. 3599 is also divisible by 7 because the last 3 digits, 599, are divisible by 7. Therefore, 3599 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+6161 is divisible by 3 because the sum of its digits is 3. So, the final answer is no.
+###
+yes
+###
+6161 is divisible by 3 because the sum of its digits is 3 + 1 + 6 + 1 + 6 + 1 = 17, which is divisible by 3. So 6161 is a composite number.
+###
+Yes
+###
+No
+###
+no
+###
+5141 is divisible by 1, 5141, and 7. 5141 is not prime.
+###
+yes
+###
+5141 is divisible by 11 because the sum of its digits is 11. 5141 is divisible by 13 because the sum of its digits is 13. 5141 is divisible by 17 because the sum of its digits is 17. 5141 is divisible by 19 because the sum of its digits is 19. 5141 is divisible by 23 because the sum of its digits is 23. 5141 is divisible by 29 because the sum of its digits is
+###
+No
+###
+No
+###
+no
+###
+5671 is divisible by 3 because the sum of its digits is 18, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+5671 is divisible by 3 because the sum of its digits is 18, which is divisible by 3. 5671 is also divisible by 7 because the last digit is 1, which is divisible by 7. Therefore, 5671 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+9263 is divisible by 3 because the sum of its digits is 18, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+9263 is divisible by 3 because the sum of its digits is 18, which is divisible by 3. 9263 is divisible by 7 because the last 3 digits are 263, which is divisible by 7. 9263 is divisible by 11 because the sum of the digits in the even places is 9 + 6 = 15, which is divisible by 11. 9263 is divisible by 13 because the sum of the digits in the odd places is 2 + 6 + 3 =
+###
+No
+###
+No
+###
+no
+###
+7729 is divisible by 3 because the sum of its digits is 21, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+7729 is divisible by 3 because the sum of its digits is 21, which is divisible by 3. 7729 is also divisible by 9 because the sum of its digits is 21, which is divisible by 9. Therefore, 7729 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+4661 is divisible by 3 because the sum of its digits is 17, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+4661 is divisible by 3 because the sum of its digits is 11, which is divisible by 3. 4661 is also divisible by 7 because the last digit is 1, which is divisible by 7. Therefore, 4661 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+3127 is divisible by 3. 3127 is not a prime number.
+###
+yes
+###
+3127 is divisible by 3 because the sum of its digits is 12, which is divisible by 3. 3127 is divisible by 7 because the last digit is 7. 3127 is divisible by 11 because the sum of the digits in the even places is 11 and the sum of the digits in the odd places is 11. Therefore, 3127 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+9271 is divisible by 1, 9271, and 31. 9271 is not divisible by 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, or 31. So 9271 is not a prime number.
+###
+yes
+###
+9271 is divisible by 11 because the sum of its digits is 18, which is divisible by 11. 9271 is also divisible by 7 because the last digit is 1, which is divisible by 7. Therefore, 9271 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+8249 is divisible by 3 because the sum of its digits is 13, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+8249 is divisible by 3 because the sum of its digits is 14, which is divisible by 3. 8249 is divisible by 7 because the last digit is 9, which is divisible by 7. 8249 is divisible by 11 because the sum of the digits in the even places is 8 + 4 + 2 = 14, which is divisible by 11. 8249 is divisible by 13 because the sum of the digits in the odd places is 8 + 2 + 9 = 
+###
+No
+###
+No
+###
+no
+###
+7739 is divisible by 7. 7739 is divisible by 11. 7739 is divisible by 13. 7739 is divisible by 17. 7739 is divisible by 19. 7739 is divisible by 23. 7739 is divisible by 29. 7739 is divisible by 31. 7739 is divisible by 37. 7739 is divisible by 41. 7739 is divisible by 
+###
+yes
+###
+7739 is divisible by 7. 7739 is divisible by 11. 7739 is divisible by 13. 7739 is divisible by 19. 7739 is divisible by 23. 7739 is divisible by 29. 7739 is divisible by 31. 7739 is divisible by 37. 7739 is divisible by 41. 7739 is divisible by 43. 7739 is divisible by 
+###
+No
+###
+No
+###
+no
+###
+5183 is divisible by 3 because the sum of its digits is 16, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+5183 is divisible by 3 because the sum of its digits is 16, which is divisible by 3. 5183 is also divisible by 7 because the last 3 digits are 183, which is divisible by 7. Therefore, 5183 is a composite number.
+###
+No
+###
+No
+###
+yes
+###
+7747 is divisible by 7. 7747 is not a prime number.
+###
+yes
+###
+7747 is divisible by 7. 7747 is divisible by 11. 7747 is divisible by 13. 7747 is divisible by 17. 7747 is divisible by 19. 7747 is divisible by 23. 7747 is divisible by 29. 7747 is divisible by 31. 7747 is divisible by 37. 7747 is divisible by 41. 7747 is divisible by 
+###
+No
+###
+No
+###
+yes
+###
+9797 is divisible by 3 because the sum of its digits is 21, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+9797 is divisible by 3 because the sum of its digits is 21, which is divisible by 3. 9797 is also divisible by 7 because the last digit is 7. Therefore, 9797 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+8777 is divisible by 3 because the sum of its digits is 22, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+8777 is divisible by 3 because the sum of its digits is 22, which is divisible by 3. So, the final answer is yes.
+###
+No
+###
+No
+###
+no
+###
+6731 is divisible by 7. 6731 is not a prime number.
+###
+yes
+###
+6731 is divisible by 7. 6731 is divisible by 11. 6731 is divisible by 13. 6731 is divisible by 17. 6731 is divisible by 23. 6731 is divisible by 29. 6731 is divisible by 31. 6731 is divisible by 37. 6731 is divisible by 41. 6731 is divisible by 43. 6731 is divisible by 
+###
+No
+###
+No
+###
+no
+###
+9301 is divisible by 7 because 9301 / 7 = 1328. 1328 is divisible by 7 because 1328 / 7 = 189. 189 is divisible by 7 because 189 / 7 = 27. 27 is divisible by 7 because 27 / 7 = 3. 3 is a prime number. So 9301 is divisible by 7 and 3. Therefore, 9301 is not a
+###
+yes
+###
+9301 is divisible by 7 because the sum of its digits is 19, which is divisible by 7. 9301 is also divisible by 11 because the alternating sum of its digits is 1-3-0-1-9-3-0-1, which is divisible by 11. Therefore, 9301 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+8791 is divisible by 1, 8791, and 3. So 8791 is not a prime number.
+###
+yes
+###
+8791 is divisible by 11. 8791 / 11 = 799. 799 is divisible by 11. 799 / 11 = 72. 72 is divisible by 11. 72 / 11 = 6. 6 is divisible by 11. 6 / 11 = 0. So, 8791 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+4187 is divisible by 3 because the sum of its digits is 13, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+4187 is divisible by 3 because the sum of its digits is 13, which is divisible by 3. 4187 is also divisible by 7 because the last digit is 7 and the sum of the digits is divisible by 7. Therefore, 4187 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+5723 is divisible by 3 because the sum of its digits is 16, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+5723 is divisible by 3 because the sum of its digits is 16, which is divisible by 3. 5723 is also divisible by 7 because the last digit is 3, which is divisible by 7. Therefore, 5723 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+7261 is divisible by 7. 7261 is divisible by 11. 7261 is divisible by 13. 7261 is divisible by 17. 7261 is divisible by 19. 7261 is divisible by 23. 7261 is divisible by 29. 7261 is divisible by 31. 7261 is divisible by 37. 7261 is divisible by 41. 7261 is divisible by 
+###
+yes
+###
+7261 is divisible by 7. 7261 is divisible by 11. 7261 is divisible by 13. 7261 is divisible by 17. 7261 is divisible by 19. 7261 is divisible by 23. 7261 is divisible by 29. 7261 is divisible by 31. 7261 is divisible by 37. 7261 is divisible by 41. 7261 is divisible by 
+###
+No
+###
+No
+###
+no
+###
+4189 is divisible by 3 because the sum of its digits is 13, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+4189 is divisible by 3 because the sum of its digits is 4 + 1 + 8 + 9 = 22, which is divisible by 3. So 4189 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+9313 is divisible by 3 because the sum of its digits is 18, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+9313 is divisible by 3 because the sum of its digits is 15, which is divisible by 3. 9313 is also divisible by 7 because the last 3 digits, 313, are divisible by 7. Therefore, 9313 is a composite number.
+###
+No
+###
+No
+###
+yes
+###
+4717 is divisible by 3 because the sum of its digits is 22, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+4717 is divisible by 3 because the sum of its digits is 12, which is divisible by 3. So, the final answer is yes.
+###
+No
+###
+No
+###
+no
+###
+6767 is divisible by 3 because the sum of its digits is 27, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+6767 is divisible by 3 because the sum of its digits is 27, which is divisible by 3. So, the final answer is yes.
+###
+No
+###
+No
+###
+no
+###
+9853 is divisible by 3 because the sum of its digits is 17, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+9853 is divisible by 3 because the sum of its digits is 17, which is divisible by 3. 9853 is also divisible by 7 because the last 3 digits are 53, which is divisible by 7. Therefore, 9853 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+8321 is divisible by 11. 8321 is not a prime number.
+###
+yes
+###
+8321 is divisible by 11. 8321 is divisible by 7. 8321 is divisible by 11 and 7. 8321 is a composite number.
+Thus, the answer is yes.
+###
+No
+###
+No
+###
+no
+###
+5251 is divisible by 3 because the sum of its digits is 12, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+5251 is divisible by 3 because the sum of its digits is 12, which is divisible by 3. 5251 is divisible by 7 because the last digit is 1, which is not divisible by 7. 5251 is divisible by 11 because the sum of the digits in the even places is 25 and the sum of the digits in the odd places is 27, and 25 + 27 = 52, which is divisible by 11. Therefore, 5251 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+7811 is divisible by 7. 7811 is not a prime number.
+###
+yes
+###
+7811 is divisible by 11 because the sum of its digits is 10, which is divisible by 11. So 7811 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+7303 is divisible by 3 because the sum of its digits is 13, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+7303 is divisible by 3 because the sum of its digits is 13, which is divisible by 3. 7303 is also divisible by 7 because the last digit is 3, which is divisible by 7. Therefore, 7303 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+5767 is divisible by 3 because the sum of its digits is 21, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+5767 is divisible by 3 because the sum of its digits is 21, which is divisible by 3. 5767 is divisible by 7 because the last digit is 7. 5767 is divisible by 11 because the sum of the digits in the even places is 13 and the sum of the digits in the odd places is 44. Therefore, 5767 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+6283 is divisible by 3 because the sum of its digits is 17, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+6283 is divisible by 3 because the sum of its digits is 17, which is divisible by 3. So, the final answer is yes.
+###
+No
+###
+No
+###
+no
+###
+9869 is divisible by 3 because the sum of its digits is 36, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+9869 is divisible by 3 because the sum of its digits is 33, which is divisible by 3. 9869 is also divisible by 7 because the last digit is 9, which is divisible by 7. Therefore, 9869 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+5777 is divisible by 3 because the sum of its digits is 21, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+5777 is divisible by 3 because the sum of its digits is 21, which is divisible by 3. 5777 is also divisible by 7 because the last digit is 7. Therefore, 5777 is a composite number.
+###
+No
+###
+No
+###
+yes
+###
+7313 is divisible by 3 because the sum of its digits is 13, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+7313 is divisible by 3 because the sum of its digits is 13, which is divisible by 3. 7313 is also divisible by 7 because the last digit is 3, which is divisible by 7. Therefore, 7313 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+8851 is divisible by 3 because the sum of its digits is 16, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+8851 is divisible by 3 because the sum of its digits is 16, which is divisible by 3. 8851 is divisible by 7 because the last digit is 1, which is divisible by 7. 8851 is divisible by 11 because the sum of the digits in the even places is 8 + 5 = 13, which is divisible by 11. 8851 is divisible by 13 because the sum of the digits in the odd places is 8 + 1 + 5 + 1 = 
+###
+No
+###
+No
+###
+no
+###
+4757 is divisible by 3 because the sum of its digits is 22, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+4757 is divisible by 3 because the sum of its digits is 16, which is divisible by 3. So, the final answer is yes.
+###
+No
+###
+No
+###
+no
+###
+3233 is divisible by 3 because the sum of its digits is 12, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+3233 is divisible by 3 because the sum of its digits is 12, which is divisible by 3. 3233 is divisible by 7 because the sum of its digits is 12, which is divisible by 7. 3233 is divisible by 11 because the sum of its digits is 12, which is divisible by 11. 3233 is divisible by 13 because the sum of its digits is 12, which is divisible by 13. 3233 is divisible by 17 because
+###
+No
+###
+No
+###
+no
+###
+9379 is divisible by 3 because the sum of its digits is 21, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+9379 is divisible by 3 because the sum of its digits is 21, which is divisible by 3. 9379 is also divisible by 7 because the last digit is 9, which is divisible by 7. Therefore, 9379 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+8357 is divisible by 3 because the sum of its digits is 17, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+8357 is divisible by 3 because the sum of its digits is 17, which is divisible by 3. So, the final answer is yes.
+###
+No
+###
+No
+###
+yes
+###
+6313 is divisible by 3 because the sum of its digits is 12, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+6313 is divisible by 3 because the sum of its digits is 12, which is divisible by 3. 6313 is also divisible by 7 because the last 3 digits are 313, which is divisible by 7. So 6313 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+5293 is divisible by 3 because the sum of its digits is 16, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+5293 is divisible by 3 because the sum of its digits is 16, which is divisible by 3. 5293 is also divisible by 7 because the last 3 digits are 293, which is divisible by 7. So 5293 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+6319 is divisible by 3. 6319 is not a prime number.
+###
+yes
+###
+6319 is divisible by 3 because the sum of its digits is 18, which is divisible by 3. 6319 is also divisible by 7 because the last digit is 9, which is divisible by 7. Therefore, 6319 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+8881 is divisible by 3 because the sum of its digits is 33, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+8881 is divisible by 3 because the sum of its digits is 33, which is divisible by 3. So, the final answer is yes.
+###
+No
+###
+No
+###
+no
+###
+3763 is divisible by 3 because the sum of its digits is 16, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+3763 is divisible by 3 because the sum of its digits is 16, which is divisible by 3. 3763 is divisible by 7 because the last 3 digits are 63, which is divisible by 7. 3763 is divisible by 11 because the sum of the digits in the even places is 3 + 6 = 9, and the sum of the digits in the odd places is 7 + 6 = 13, and 9 + 13 = 22, which is divisible by 11.
+###
+No
+###
+No
+###
+no
+###
+8383 is divisible by 3 because the sum of its digits is 14, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+8383 is divisible by 3 because the sum of its digits is 14, which is divisible by 3. So, the final answer is yes.
+###
+No
+###
+No
+###
+no
+###
+7367 is divisible by 7. 7367 is not a prime number.
+###
+yes
+###
+7367 is divisible by 7. 7367 is divisible by 11. 7367 is divisible by 13. 7367 is divisible by 17. 7367 is divisible by 19. 7367 is divisible by 23. 7367 is divisible by 29. 7367 is divisible by 31. 7367 is divisible by 37. 7367 is divisible by 41. 7367 is divisible by 
+###
+No
+###
+No
+###
+no
+###
+8909 is divisible by 3 because the sum of its digits is 21, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+8909 is divisible by 3 because the sum of its digits is 21, which is divisible by 3. 8909 is also divisible by 7 because the last 3 digits are 09, which is divisible by 7. So 8909 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+7373 is divisible by 3 because the sum of its digits is 17, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+7373 is divisible by 3 because the sum of its digits is 17, which is divisible by 3. 7373 is also divisible by 7 because the last digit is 3, which is divisible by 7. Therefore, 7373 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+4307 is divisible by 7 because the remainder is 0 when 4307 is divided by 7. 4307 is not a prime number.
+###
+yes
+###
+4307 is divisible by 7 because the sum of its digits is 14, which is divisible by 7. So, the final answer is yes.
+###
+No
+###
+No
+###
+no
+###
+4819 is divisible by 1, 4819, and 7. 4819 is not prime.
+###
+yes
+###
+4819 is divisible by 11. 4819 is divisible by 13. 4819 is divisible by 17. 4819 is divisible by 19. 4819 is divisible by 23. 4819 is divisible by 29. 4819 is divisible by 31. 4819 is divisible by 37. 4819 is divisible by 41. 4819 is divisible by 43. 4819 is divisible by
+###
+No
+###
+No
+###
+no
+###
+9943 is divisible by 3 because the sum of its digits is 18, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+9943 is divisible by 3 because the sum of its digits is 18, which is divisible by 3. 9943 is also divisible by 7 because the last 3 digits are 43, which is divisible by 7. Therefore, 9943 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+7897 is divisible by 7. 7897 is not a prime number.
+###
+yes
+###
+7897 is divisible by 7. 7897 is divisible by 11. 7897 is divisible by 13. 7897 is divisible by 17. 7897 is divisible by 19. 7897 is divisible by 23. 7897 is divisible by 29. 7897 is divisible by 31. 7897 is divisible by 37. 7897 is divisible by 41. 7897 is divisible by 
+###
+No
+###
+No
+###
+yes
+###
+7387 is divisible by 7. 7387 is not a prime number.
+###
+yes
+###
+7387 is divisible by 7. 7387 is divisible by 11. 7387 is divisible by 13. 7387 is divisible by 17. 7387 is divisible by 19. 7387 is divisible by 23. 7387 is divisible by 29. 7387 is divisible by 31. 7387 is divisible by 37. 7387 is divisible by 41. 7387 is divisible by 
+###
+No
+###
+No
+###
+no
+###
+8927 is divisible by 3 because the sum of its digits is 21, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+8927 is divisible by 3 because the sum of its digits is 21, which is divisible by 3. So, the final answer is yes.
+###
+No
+###
+No
+###
+no
+###
+6887 is divisible by 3 because the sum of its digits is 22, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+6887 is divisible by 3 because the sum of its digits is 22, which is divisible by 3. 6887 is divisible by 7 because the last digit is 7. 6887 is divisible by 11 because the sum of the digits in the even places is 22 and the sum of the digits in the odd places is 46. So, 6887 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+5353 is divisible by 3 because the sum of its digits is 16, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+5353 is divisible by 3 because the sum of its digits is 16, which is divisible by 3. 5353 is also divisible by 7 because the last 3 digits are 353, which is divisible by 7. Therefore, 5353 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+4331 is divisible by 11. 4331 is not a prime number.
+###
+yes
+###
+4331 is divisible by 11. 4331 / 11 = 394. 394 is divisible by 2. 394 / 2 = 197. 197 is prime. So 4331 is a composite number. The final answer: yes.
+###
+No
+###
+No
+###
+no
+###
+6893 is divisible by 3 because the sum of its digits is 18, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+6893 is divisible by 3 because the sum of its digits is 18, which is divisible by 3. 6893 is divisible by 7 because the last digit is 3, which is divisible by 7. 6893 is divisible by 11 because the sum of the digits in the even places is 6 + 9 = 15, which is divisible by 11. 6893 is divisible by 13 because the sum of the digits in the odd places is 8 + 9 + 3 = 20,
+###
+No
+###
+No
+###
+no
+###
+6901 is divisible by 7. 6901 is not a prime number.
+###
+yes
+###
+6901 is divisible by 7. 6901 is divisible by 11. 6901 is divisible by 13. 6901 is divisible by 17. 6901 is divisible by 19. 6901 is divisible by 23. 6901 is divisible by 29. 6901 is divisible by 31. 6901 is divisible by 37. 6901 is divisible by 41. 6901 is divisible by 
+###
+No
+###
+No
+###
+no
+###
+9983 is divisible by 3 because the sum of its digits is 21, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+9983 is divisible by 3 because the sum of its digits is 21, which is divisible by 3. 9983 is also divisible by 7 because the last 3 digits are 83, which is divisible by 7. Therefore, 9983 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+5893 is divisible by 3 because the sum of its digits is 17, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+5893 is divisible by 3 because the sum of its digits is 18, which is divisible by 3. 5893 is also divisible by 7 because the last 3 digits are 893, which is divisible by 7. So 5893 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+8453 is divisible by 3 because the sum of its digits is 16 which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+8453 is divisible by 3 because the sum of its digits is 16 which is divisible by 3. So, the final answer is yes.
+###
+No
+###
+No
+###
+no
+###
+9991 is divisible by 11. 9991 is not a prime number.
+###
+yes
+###
+9991 is divisible by 11. 9991 is divisible by 99. 9991 is divisible by 999. 9991 is divisible by 9991. 9991 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+9487 is divisible by 7 because the remainder is 0 when 9487 is divided by 7. 9487 is divisible by 11 because the remainder is 0 when 9487 is divided by 11. 9487 is divisible by 13 because the remainder is 0 when 9487 is divided by 13. 9487 is divisible by 17 because the remainder is 0 when 9487 is divided by 17. 9487 is divisible by 1
+###
+yes
+###
+9487 is divisible by 3 because the sum of its digits is 22, which is divisible by 3. 9487 is divisible by 7 because the last digit is 7. 9487 is divisible by 11 because the sum of the digits in the even places is 4 + 8 + 7 = 19, which is divisible by 11. 9487 is divisible by 13 because the sum of the digits in the odd places is 9 + 4 + 8 = 21, which is divisible by
+###
+No
+###
+No
+###
+no
+###
+7957 is divisible by 7. 7957 is divisible by 11. 7957 is divisible by 13. 7957 is divisible by 17. 7957 is divisible by 19. 7957 is divisible by 23. 7957 is divisible by 29. 7957 is divisible by 31. 7957 is divisible by 37. 7957 is divisible by 41. 7957 is divisible by 
+###
+yes
+###
+7957 is divisible by 7 because the last digit is 7. 7957 is divisible by 11 because the sum of the digits is 27, which is divisible by 11. 7957 is divisible by 13 because the sum of the digits is 27, which is divisible by 13. 7957 is divisible by 17 because the sum of the digits is 27, which is divisible by 17. 7957 is divisible by 19 because the sum of the digits is 2
+###
+No
+###
+No
+###
+no
+###
+4891 is divisible by 7 because 4891 / 7 = 699. 4891 is divisible by 11 because 4891 / 11 = 445. 4891 is divisible by 13 because 4891 / 13 = 376. 4891 is divisible by 17 because 4891 / 17 = 288. 4891 is divisible by 19 because 4891 
+###
+yes
+###
+4891 is divisible by 11. 4891 is divisible by 13. 4891 is divisible by 11 and 13. 4891 is a composite number. The final answer: yes.
+###
+No
+###
+No
+###
+no
+###
+3869 is divisible by 3 because the sum of its digits is divisible by 3. 3869 is divisible by 7 because the last digit is 9 and the sum of the digits is divisible by 7. 3869 is divisible by 11 because the sum of the digits in the even places is 38 and the sum of the digits in the odd places is 58. Therefore, 3869 is not a prime number.
+###
+yes
+###
+3869 is divisible by 3 because the sum of its digits is 3 + 8 + 6 + 9 = 26, which is divisible by 3. 3869 is divisible by 7 because the last digit is 9 and the sum of the digits is 3 + 8 + 6 + 9 = 26, which is divisible by 7. 3869 is divisible by 11 because the sum of the digits in the even places is 3 + 6 = 9 and the sum of the digits in the odd places is
+###
+No
+###
+No
+###
+no
+###
+5917 is divisible by 3 because the sum of its digits is 17, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+5917 is divisible by 3 because the sum of its digits is 17, which is divisible by 3. 5917 is also divisible by 7 because the last digit is 7. So 5917 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+6943 is divisible by 3 because the sum of its digits is 19, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+6943 is divisible by 3 because the sum of its digits is 19, which is divisible by 3. 6943 is divisible by 7 because the last 3 digits are 43, which is divisible by 7. 6943 is divisible by 11 because the sum of the digits in the even places is 6 + 4 = 10, which is divisible by 11. 6943 is divisible by 13 because the sum of the digits in the odd places is 9 + 4 + 3 = 
+###
+No
+###
+No
+###
+no
+###
+6431 is divisible by 7. 6431 is not a prime number.
+###
+yes
+###
+6431 is divisible by 7 because 6431 / 7 = 919. 6431 is divisible by 11 because 6431 / 11 = 585. 6431 is divisible by 13 because 6431 / 13 = 494. 6431 is divisible by 17 because 6431 / 17 = 378. 6431 is divisible by 19 because 6431 
+###
+No
+###
+No
+###
+no
+###
+4897 is divisible by 3 because the sum of its digits is 21, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+4897 is divisible by 3 because the sum of its digits is 21, which is divisible by 3. 4897 is divisible by 7 because the last digit is 7. 4897 is divisible by 11 because the sum of the digits in the even places is 48 and the sum of the digits in the odd places is 117. Therefore, 4897 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+8479 is divisible by 3 because the sum of its digits is 22, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+8479 is divisible by 3 because the sum of its digits is 22, which is divisible by 3. So, the final answer is yes.
+###
+No
+###
+No
+###
+no
+###
+8989 is divisible by 3 because the sum of its digits is 24, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+8989 is divisible by 3 because the sum of its digits is 24, which is divisible by 3. So 8989 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+7979 is divisible by 79. 7979 is not a prime number.
+###
+yes
+###
+7979 is divisible by 3 because the sum of its digits is 21, which is divisible by 3. 7979 is also divisible by 7 because the last digit is 9. Therefore, 7979 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+4399 is divisible by 11. 4399 is not a prime number.
+###
+yes
+###
+4399 is divisible by 11 because the sum of its digits is 18, which is divisible by 11. 4399 is also divisible by 3 because the sum of its digits is 18, which is divisible by 3. Therefore, 4399 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+9523 is divisible by 3 because the sum of its digits is 17, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+9523 is divisible by 3 because the sum of its digits is 17, which is divisible by 3. 9523 is also divisible by 7 because the last 3 digits, 23, are divisible by 7. Therefore, 9523 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+5429 is divisible by 1, 5429, and 7. 5429 is not prime.
+###
+yes
+###
+5429 is divisible by 7 because 5429 / 7 = 775. 5429 is divisible by 11 because 5429 / 11 = 493. 5429 is divisible by 13 because 5429 / 13 = 417. 5429 is divisible by 17 because 5429 / 17 = 319. 5429 is divisible by 19 because 5429 
+###
+No
+###
+No
+###
+no
+###
+7991 is divisible by 7. 7991 is not a prime number.
+###
+yes
+###
+7991 is divisible by 7. 7991 is divisible by 11. 7991 is divisible by 79. 7991 is divisible by 111. 7991 is divisible by 799. 7991 is divisible by 1111. 7991 is divisible by 7999. 7991 is divisible by 11111. 7991 is divisible by 79999. 7991 is divisible by 
+###
+No
+###
+No
+###
+yes
+###
+9017 is divisible by 7. 9017 is not a prime number.
+###
+yes
+###
+9017 is divisible by 3 because the sum of its digits is 16, which is divisible by 3. 9017 is also divisible by 7 because the last digit is 7. So 9017 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+8509 is divisible by 3 because the sum of its digits is 17 which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+8509 is divisible by 3 because the sum of its digits is 8 + 5 + 0 + 9 = 22, which is divisible by 3. So 8509 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+8003 is divisible by 3 because the sum of its digits is 11, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+8003 is divisible by 3 because the sum of its digits is 11, which is divisible by 3. 8003 is also divisible by 7 because the last 3 digits are 003, which is divisible by 7. Therefore, 8003 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+7493 is divisible by 3 because the sum of its digits is 19, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+7493 is divisible by 3 because the sum of its digits is 19, which is divisible by 3. So, the final answer is yes.
+###
+No
+###
+No
+###
+no
+###
+5959 is divisible by 3 because the sum of its digits is 27, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+5959 is divisible by 3 because the sum of its digits is 27, which is divisible by 3. 5959 is also divisible by 7 because the last 3 digits are 959, which is divisible by 7. Therefore, 5959 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+5963 is divisible by 3 because the sum of its digits is 18, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+5963 is divisible by 3 because the sum of its digits is 18, which is divisible by 3. 5963 is divisible by 7 because the last 3 digits are 63, which is divisible by 7. 5963 is divisible by 11 because the sum of the digits in the even places is 5 + 6 = 11, which is divisible by 11. 5963 is divisible by 13 because the sum of the digits in the odd places is 9 + 6 + 3 = 
+###
+No
+###
+No
+###
+no
+###
+5459 is divisible by 3 because the sum of its digits is 19, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+5459 is divisible by 3 because the sum of its digits is 19, which is divisible by 3. 5459 is also divisible by 7 because the last 3 digits, 459, are divisible by 7. Therefore, 5459 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+8023 is divisible by 3 because the sum of its digits is 13, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+8023 is divisible by 3 because the sum of its digits is 11, which is divisible by 3. So, the final answer is yes.
+###
+No
+###
+No
+###
+no
+###
+9047 is divisible by 7. 9047 is not a prime number.
+###
+yes
+###
+9047 is divisible by 7 because the sum of its digits is 21, which is divisible by 7. 9047 is also divisible by 13 because 9047 mod 13 = 0. Therefore, 9047 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+9563 is divisible by 3 because the sum of its digits is 18, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+9563 is divisible by 3 because the sum of its digits is 18, which is divisible by 3. 9563 is also divisible by 7 because the last 3 digits are 63, which is divisible by 7. Therefore, 9563 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+7519 is divisible by 7. 7519 is divisible by 11. 7519 is divisible by 13. 7519 is divisible by 17. 7519 is divisible by 19. 7519 is divisible by 23. 7519 is divisible by 29. 7519 is divisible by 31. 7519 is divisible by 37. 7519 is divisible by 41. 7519 is divisible by 
+###
+yes
+###
+7519 is divisible by 3 because the sum of its digits is 16, which is divisible by 3. 7519 is divisible by 7 because the last digit is 9. 7519 is divisible by 11 because the sum of the digits in the even places is 15 and the sum of the digits in the odd places is 60. Therefore, 7519 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+6497 is divisible by 3 because the sum of its digits is 20, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+6497 is divisible by 3 because the sum of its digits is 17, which is divisible by 3. So, the final answer is yes.
+###
+No
+###
+No
+###
+no
+###
+6499 is divisible by 3 because the sum of its digits is 22, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+6499 is divisible by 3 because the sum of its digits is 19, which is divisible by 3. 6499 is divisible by 7 because the last 3 digits are 499, which is divisible by 7. 6499 is divisible by 11 because the sum of the digits in the even places is 4 + 9 = 13, which is divisible by 11. 6499 is divisible by 13 because the sum of the digits in the odd places is 6 + 4 + 9 =
+###
+No
+###
+No
+###
+no
+###
+5989 is divisible by 1, 5989, and 7. 5989 is not prime.
+###
+yes
+###
+5989 is divisible by 3 because the sum of its digits is 5 + 9 + 8 + 9 = 31, which is divisible by 3. So, the final answer is yes.
+###
+No
+###
+No
+###
+no
+###
+4453 is divisible by 3 because the sum of its digits is 12, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+4453 is divisible by 3 because the sum of its digits is 12, which is divisible by 3. 4453 is also divisible by 7 because the last 3 digits are 53, which is divisible by 7. Therefore, 4453 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+8549 is divisible by 3 because the sum of its digits is 18, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+8549 is divisible by 3 because the sum of its digits is 17, which is divisible by 3. 8549 is divisible by 7 because the last digit is 9, which is divisible by 7. 8549 is divisible by 11 because the sum of the digits in the even places is 45, which is divisible by 11, and the sum of the digits in the odd places is 40, which is divisible by 11. Therefore, 8549 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+9577 is divisible by 3 because the sum of its digits is 26, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+9577 is divisible by 3 because the sum of its digits is 26, which is divisible by 3. 9577 is divisible by 7 because the last digit is 7. 9577 is divisible by 11 because the sum of the digits in the even places is 57 and the sum of the digits in the odd places is 40. Therefore, 9577 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+3953 is divisible by 3 because the sum of its digits is 18, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+3953 is divisible by 3 because the sum of its digits is 18, which is divisible by 3. 3953 is divisible by 7 because the last 3 digits are 53, which is divisible by 7. 3953 is divisible by 11 because the sum of the digits in the even places is 39 and the sum of the digits in the odd places is 56, and 39 + 56 = 95, which is divisible by 11. Therefore, 3953 is a composite number
+###
+No
+###
+No
+###
+no
+###
+8051 is divisible by 3 because the sum of its digits is 14, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+8051 is divisible by 3 because the sum of its digits is 8 + 0 + 5 + 1 = 14, which is divisible by 3. So 8051 is a composite number.
+###
+No
+###
+No
+###
+yes
+###
+7031 is divisible by 7. 7031 is not a prime number.
+###
+yes
+###
+7031 is divisible by 7. 7031 is divisible by 11. 7031 is divisible by 77. 7031 is divisible by 777. 7031 is divisible by 7777. 7031 is divisible by 77777. 7031 is divisible by 777777. 7031 is divisible by 7777777. 7031 is divisible by 77777777.
+###
+No
+###
+No
+###
+no
+###
+9593 is divisible by 3 because the sum of its digits is 18, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+9593 is divisible by 3 because the sum of its digits is 18, which is divisible by 3. 9593 is also divisible by 7 because the last 3 digits are 593, which is divisible by 7. Therefore, 9593 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+6527 is divisible by 3 because the sum of its digits is 19, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+6527 is divisible by 3 because the sum of its digits is 19, which is divisible by 3. 6527 is divisible by 7 because the last digit is 7. 6527 is divisible by 11 because the sum of the digits in the even places is 11 and the sum of the digits in the odd places is 54. So, 6527 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+9089 is divisible by 3 because the sum of its digits is 27, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+9089 is divisible by 3 because the sum of its digits is 27, which is divisible by 3. 9089 is also divisible by 7 because the last 3 digits are 89, which is divisible by 7. Therefore, 9089 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+9617 is divisible by 3 because the sum of its digits is 27, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+9617 is divisible by 3 because the sum of its digits is 27, which is divisible by 3. 9617 is divisible by 7 because the last digit is 7. 9617 is divisible by 11 because the sum of the digits in the even places is 16 and the sum of the digits in the odd places is 80. Therefore, 9617 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+8083 is divisible by 3 because the sum of its digits is 19 which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+8083 is divisible by 3 because the sum of its digits is 19, which is divisible by 3. So, the final answer is yes.
+###
+No
+###
+No
+###
+no
+###
+7571 is divisible by 7. 7571 is not a prime number.
+###
+yes
+###
+7571 is divisible by 3 because the sum of its digits is 16, which is divisible by 3. 7571 is divisible by 7 because the last digit is 1. 7571 is divisible by 11 because the sum of the digits in the even places is 15 and the sum of the digits in the odd places is 60. Therefore, 7571 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+6557 is divisible by 3 because the sum of its digits is 18, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+6557 is divisible by 3 because the sum of its digits is 19, which is divisible by 3. So, the final answer is yes.
+###
+No
+###
+No
+###
+no
+###
+8611 is divisible by 11. 8611 is not a prime number.
+###
+yes
+###
+8611 is divisible by 11 because the sum of its digits is 16, which is divisible by 11. So 8611 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+7081 is divisible by 7. 7081 is not a prime number.
+###
+yes
+###
+7081 is divisible by 7. 7081 is divisible by 11. 7081 is divisible by 77. 7081 is divisible by 77 * 11. 7081 is divisible by 847. 7081 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+6059 is divisible by 3 because the sum of its digits is 15, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+6059 is divisible by 3 because the sum of its digits is 15, which is divisible by 3. 6059 is also divisible by 7 because the last digit is 9, which is divisible by 7. Therefore, 6059 is a composite number.
+###
+No
+###
+No
+###
+yes
+###
+7597 is divisible by 7. 7597 is not a prime number.
+###
+yes
+###
+7597 is divisible by 3 because the sum of its digits is 26, which is divisible by 3. 7597 is divisible by 7 because the last digit is 7. 7597 is divisible by 11 because the sum of the digits in the even places is 55 and the sum of the digits in the odd places is 20. Therefore, 7597 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+5561 is divisible by 3 because the sum of its digits is 16, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+5561 is divisible by 3 because the sum of its digits is 16, which is divisible by 3. 5561 is divisible by 7 because the last digit is 1, which is divisible by 7. 5561 is divisible by 11 because the sum of the digits in the even places is 55 and the sum of the digits in the odd places is 61. Therefore, 5561 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+8633 is divisible by 3 because the sum of its digits is 18, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+8633 is divisible by 3 because the sum of its digits is 18, which is divisible by 3. 8633 is divisible by 7 because the last 3 digits are 33, which is divisible by 7. 8633 is divisible by 11 because the sum of the digits in the even places is 8 + 3 = 11, which is divisible by 11. Therefore, 8633 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+6077 is divisible by 3 because the sum of its digits is 13, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+6077 is divisible by 3 because the sum of its digits is 13, which is divisible by 3. 6077 is divisible by 7 because the last digit is 7. 6077 is divisible by 11 because the sum of the digits in the even places is 11 and the sum of the digits in the odd places is 11. Therefore, 6077 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+8639 is divisible by 3 because the sum of its digits is 21, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+8639 is divisible by 3 because the sum of its digits is 21, which is divisible by 3. 8639 is also divisible by 7 because the last digit is 9, which is divisible by 7. Therefore, 8639 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+5063 is divisible by 3 because the sum of its digits is 14, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+5063 is divisible by 3 because the sum of its digits is 16, which is divisible by 3. 5063 is divisible by 7 because the last 3 digits are 063, which is divisible by 7. 5063 is divisible by 11 because the sum of the digits in the even positions is 5 + 6 + 3 = 14, which is divisible by 11. Therefore, 5063 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+8137 is divisible by 7 because the last digit is 7 and the sum of the digits is 23 which is divisible by 7.
+Therefore, the final answer is no.
+###
+yes
+###
+8137 is divisible by 3 because the sum of its digits is 12, which is divisible by 3. So, the final answer is yes.
+###
+No
+###
+No
+###
+no
+###
+9167 is divisible by 3 because the sum of its digits is 21, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+9167 is divisible by 3 because the sum of its digits is 21, which is divisible by 3. 9167 is also divisible by 7 because the last digit is 7. So 9167 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+9169 is divisible by 3 because the sum of its digits is 27, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+9169 is divisible by 3 because the sum of its digits is 27, which is divisible by 3. 9169 is also divisible by 7 because the last digit is 9, which is divisible by 7. Therefore, 9169 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+9179 is divisible by 3 because the sum of its digits is 21, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+9179 is divisible by 3 because the sum of its digits is 21, which is divisible by 3. 9179 is also divisible by 7 because the last digit is 9, which is divisible by 7. Therefore, 9179 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+3551 is divisible by 3. 3551 is not a prime number.
+###
+yes
+###
+3551 is divisible by 3 because the sum of its digits is 11, which is divisible by 3. 3551 is also divisible by 7 because the last digit is 1, which is divisible by 7. Therefore, 3551 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+9701 is divisible by 7. 9701 is divisible by 13. 9701 is divisible by 19. 9701 is divisible by 27. 9701 is divisible by 51. 9701 is divisible by 103. 9701 is divisible by 143. 9701 is divisible by 211. 9701 is divisible by 287. 9701 is divisible by 371. 970
+###
+yes
+###
+9701 is divisible by 7 because the sum of its digits is 9+7+0+1 = 17, which is divisible by 7. 9701 is also divisible by 13 because 9701 / 13 = 746. So 9701 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+5609 is divisible by 7 because 5609 / 7 = 801. 5609 is divisible by 11 because 5609 / 11 = 509. 5609 is divisible by 13 because 5609 / 13 = 431. 5609 is divisible by 17 because 5609 / 17 = 329. 5609 is divisible by 19 because 5609 
+###
+yes
+###
+5609 is divisible by 7 because 5609 / 7 = 801. 5609 is divisible by 11 because 5609 / 11 = 509. 5609 is divisible by 13 because 5609 / 13 = 431. 5609 is divisible by 17 because 5609 / 17 = 329. 5609 is divisible by 19 because 5609 
+###
+No
+###
+No
+###
+no
+###
+7663 is divisible by 3 because the sum of its digits is 17, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+7663 is divisible by 3 because the sum of its digits is 17, which is divisible by 3. 7663 is also divisible by 7 because the last digit is 3, which is divisible by 7. Therefore, 7663 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+4087 is divisible by 3 because the sum of its digits is 19, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+4087 is divisible by 3 because the sum of its digits is 12, which is divisible by 3. 4087 is divisible by 7 because the last digit is 7. 4087 is divisible by 11 because the sum of the digits in the even places is 4 + 8 = 12, which is divisible by 11. 4087 is divisible by 13 because the sum of the digits in the odd places is 0 + 7 = 7, which is divisible by 13. Therefore, 
+###
+No
+###
+No
+###
+no
+###
+6649 is divisible by 3 because the sum of its digits is 20, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+6649 is divisible by 3 because the sum of its digits is 20, which is divisible by 3. 6649 is divisible by 7 because the last digit is 9 and the sum of the digits is 20, which is divisible by 7. 6649 is divisible by 11 because the sum of the digits in the even places is 46 and the sum of the digits in the odd places is 20, which is divisible by 11. 6649 is divisible by 13 because the sum of the digits
+###
+No
+###
+No
+###
+no
+###
+9211 is divisible by 11. 9211 is not a prime number.
+###
+yes
+###
+9211 is divisible by 11 because the sum of its digits is 12, which is divisible by 3. 9211 is also divisible by 13 because the sum of its digits is 12, which is divisible by 4. Therefore, 9211 is a composite number.
+###
+No
+###
+No
+###
+no
+###
+9727 is divisible by 3 because the sum of its digits is 21, which is divisible by 3. So, the final answer is no.
+###
+yes
+###
+9727 is divisible by 3 because the sum of its digits is 21, which is divisible by 3. 9727 is also divisible by 7 because the last digit is 7. So 9727 is a composite number.
+###
+No
+###
+No

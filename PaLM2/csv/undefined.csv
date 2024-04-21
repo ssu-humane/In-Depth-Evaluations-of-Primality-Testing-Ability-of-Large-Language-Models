@@ -1,0 +1,1037 @@
+,Qustion,Output,Predict,Answer,Difficulty,Number,Factor1,Factor2,Verdict
+12_Q2,Q2,"
+12 is divisible by 2, 3, 4, 6, and 12. So 12 is not a prime number.
+",composite,composite,2_digit_composite,12,2,6,correct
+12_Q4,Q4,"
+12 is divisible by 2, 3, 4, 6, and 12. So 12 is a composite number.
+",composite,composite,2_digit_composite,12,2,6,correct
+15_Q2,Q2,"
+15 is divisible by 3. 15 is not a prime number.
+",composite,composite,2_digit_composite,15,3,5,correct
+16_Q2,Q2,"
+16 is divisible by 2, 4, 8, and 16. So 16 is not a prime number.
+",composite,composite,2_digit_composite,16,2,8,correct
+16_Q4,Q4,"
+16 is divisible by 2, 4, 8, and 16. 16 is a composite number.
+",composite,composite,2_digit_composite,16,2,8,correct
+18_Q2,Q2,"
+18 is divisible by 2, 3, and 6. So 18 is not a prime number.
+",composite,composite,2_digit_composite,18,2,9,correct
+18_Q4,Q4,"
+18 is divisible by 2, 3, and 6. 18 is a composite number.
+",composite,composite,2_digit_composite,18,2,9,correct
+20_Q2,Q2,"
+20 is divisible by 2, 4, 5, and 10. So 20 is not a prime number.
+",composite,composite,2_digit_composite,20,2,10,correct
+20_Q4,Q4,"
+20 is divisible by 2, 4, 5, and 10. So 20 is a composite number.
+",composite,composite,2_digit_composite,20,2,10,correct
+21_Q2,Q2,"
+21 is divisible by 3. 21 is not a prime number.
+",composite,composite,2_digit_composite,21,3,7,correct
+21_Q4,Q4,"
+21 is divisible by 3. 21 is a composite number.
+",composite,composite,2_digit_composite,21,3,7,correct
+22_Q2,Q2,"
+22 is divisible by 2, 11, and itself. So 22 is not a prime number.
+",composite,composite,2_digit_composite,22,2,11,correct
+22_Q4,Q4,"
+22 is divisible by 2, 11, and 1. So 22 is a composite number.
+",composite,composite,2_digit_composite,22,2,11,correct
+24_Q2,Q2,"
+24 is divisible by 2, 3, 4, 6, 8, 12, and 24. So 24 is not a prime number.
+",composite,composite,2_digit_composite,24,2,12,correct
+24_Q4,Q4,"
+24 is divisible by 2, 3, 4, 6, 8, 12, and 24. So 24 is a composite number.
+",composite,composite,2_digit_composite,24,2,12,correct
+25_Q2,Q2,"
+25 is divisible by 5. 5 is not 1 or 25. So 25 is not a prime number.
+",composite,composite,2_digit_composite,25,5,5,correct
+25_Q4,Q4,"
+25 is divisible by 5. 25 is a composite number.
+",composite,composite,2_digit_composite,25,5,5,correct
+26_Q2,Q2,"
+26 is divisible by 2, 13, and 1. So 26 is not a prime number.
+",composite,composite,2_digit_composite,26,2,13,correct
+26_Q4,Q4,"
+26 is divisible by 2, 13, and 1. So 26 is a composite number.
+",composite,composite,2_digit_composite,26,2,13,correct
+27_Q2,Q2,"
+27 is divisible by 3. 27 is not a prime number.
+",composite,composite,2_digit_composite,27,3,9,correct
+27_Q4,Q4,"
+27 is divisible by 3. 27 is a composite number.
+",composite,composite,2_digit_composite,27,3,9,correct
+28_Q2,Q2,"
+28 is divisible by 2, 4, 7, and 14. So 28 is not a prime number.
+",composite,composite,2_digit_composite,28,2,14,correct
+28_Q4,Q4,"
+28 is divisible by 2, 4, 7, and 14. 28 is a composite number.
+",composite,composite,2_digit_composite,28,2,14,correct
+30_Q2,Q2,"
+30 is divisible by 2, 3, and 5. So 30 is not a prime number.
+",composite,composite,2_digit_composite,30,2,15,correct
+30_Q4,Q4,"
+30 is divisible by 2, 3, and 5. 30 is a composite number.
+",composite,composite,2_digit_composite,30,2,15,correct
+32_Q2,Q2,"
+32 is divisible by 2, 4, 8, 16, and 32. So 32 is not a prime number.
+",composite,composite,2_digit_composite,32,2,16,correct
+32_Q4,Q4,"
+32 is divisible by 2, 4, 8, and 16. 32 is a composite number.
+",composite,composite,2_digit_composite,32,2,16,correct
+35_Q2,Q2,"
+35 is divisible by 5. 35 is not a prime number.
+",composite,composite,2_digit_composite,35,5,7,correct
+36_Q2,Q2,"
+36 is divisible by 2, 3, 4, 6, 9, 12, 18, and 36. So 36 is not a prime number.
+",composite,composite,2_digit_composite,36,2,18,correct
+36_Q4,Q4,"
+36 is divisible by 2, 3, 4, 6, 9, and 12. 36 is a composite number.
+",composite,composite,2_digit_composite,36,2,18,correct
+38_Q4,Q4,"
+38 is divisible by 2, 19, and 1. So 38 is a composite number.
+",composite,composite,2_digit_composite,38,2,19,correct
+39_Q4,Q4,"
+39 is not prime because 39 is divisible by 3.
+Thus, the final answer is yes.
+",composite,composite,2_digit_composite,39,3,13,correct
+40_Q2,Q2,"
+40 is divisible by 2, 4, 5, 10, 20. So 40 is not a prime number.
+",composite,composite,2_digit_composite,40,2,20,correct
+40_Q4,Q4,"
+40 is divisible by 2, 4, 5, and 10. So 40 is a composite number.
+",composite,composite,2_digit_composite,40,2,20,correct
+42_Q2,Q2,"
+42 is divisible by 2, 3, and 7. So 42 is not a prime number.
+",composite,composite,2_digit_composite,42,2,21,correct
+42_Q4,Q4,"
+42 is divisible by 2, 3, and 7. 42 is a composite number.
+",composite,composite,2_digit_composite,42,2,21,correct
+44_Q2,Q2,"
+44 is divisible by 2, 4, 11, and 22. So 44 is not a prime number.
+",composite,composite,2_digit_composite,44,2,22,correct
+44_Q4,Q4,"
+44 is divisible by 2, 4, and 11. 44 is a composite number.
+",composite,composite,2_digit_composite,44,2,22,correct
+46_Q4,Q4,"
+46 is divisible by 2, 23, and 1. So 46 is a composite number.
+",composite,composite,2_digit_composite,46,2,23,correct
+48_Q2,Q2,"
+48 is divisible by 2, 3, 4, 6, 8, 12, 16, 24. So 48 is not a prime number.
+",composite,composite,2_digit_composite,48,2,24,correct
+48_Q4,Q4,"
+48 is divisible by 2, 3, 4, 6, 8, 12, 16, 24. So 48 is a composite number.
+",composite,composite,2_digit_composite,48,2,24,correct
+49_Q2,Q2,"
+49 is not prime because it is divisible by 7.
+The final answer: no.
+",composite,composite,2_digit_composite,49,7,7,correct
+49_Q4,Q4,"
+49 is divisible by 7. 7 is a prime number. So 49 is a composite number. The final answer: yes.
+",composite,composite,2_digit_composite,49,7,7,correct
+50_Q2,Q2,"
+50 is divisible by 2, 5, and 10. So 50 is not a prime number.
+",composite,composite,2_digit_composite,50,2,25,correct
+50_Q4,Q4,"
+50 is divisible by 2, 5, and 10. 50 is a composite number.
+",composite,composite,2_digit_composite,50,2,25,correct
+51_Q4,Q4,"
+51 is not prime because it is divisible by 3.
+Therefore, the final answer is yes.
+",composite,composite,2_digit_composite,51,3,17,correct
+52_Q2,Q2,"
+52 is divisible by 2, 4, 13, and 26. So 52 is not a prime number.
+",composite,composite,2_digit_composite,52,2,26,correct
+52_Q4,Q4,"
+52 is divisible by 2, 4, 13, and 26. So 52 is a composite number.
+",composite,composite,2_digit_composite,52,2,26,correct
+54_Q2,Q2,"
+54 is divisible by 2, 3, 6, 9, and 18. So 54 is not a prime number.
+",composite,composite,2_digit_composite,54,2,27,correct
+54_Q4,Q4,"
+54 is divisible by 2, 3, and 6. 54 is a composite number.
+",composite,composite,2_digit_composite,54,2,27,correct
+57_Q4,Q4,"
+57 is divisible by 3 because the sum of its digits is 12, which is divisible by 3. So, the final answer is yes.
+",composite,composite,2_digit_composite,57,3,19,correct
+60_Q2,Q2,"
+60 is divisible by 2, 3, 4, 5, 6, 10, 12, 15, 20, 30. So 60 is not a prime number.
+",composite,composite,2_digit_composite,60,2,30,correct
+60_Q4,Q4,"
+60 is divisible by 2, 3, 4, 5, and 6. So 60 is a composite number.
+",composite,composite,2_digit_composite,60,2,30,correct
+64_Q2,Q2,"
+64 is divisible by 2, 4, 8, 16, 32, and 64. So 64 is not a prime number.
+",composite,composite,2_digit_composite,64,2,32,correct
+64_Q4,Q4,"
+64 is divisible by 2, 4, 8, 16, 32, and 64. So 64 is a composite number.
+",composite,composite,2_digit_composite,64,2,32,correct
+66_Q2,Q2,"
+66 is divisible by 2, 3, and 11. So 66 is not a prime number.
+",composite,composite,2_digit_composite,66,2,33,correct
+66_Q4,Q4,"
+66 is divisible by 2, 3, and 11. 66 is a composite number.
+",composite,composite,2_digit_composite,66,2,33,correct
+70_Q2,Q2,"
+70 is divisible by 2, 5, and 7. So 70 is not a prime number.
+",composite,composite,2_digit_composite,70,2,35,correct
+70_Q4,Q4,"
+70 is divisible by 2, 5, and 7. 70 is a composite number.
+",composite,composite,2_digit_composite,70,2,35,correct
+72_Q2,Q2,"
+72 is divisible by 2, 3, 4, 6, 8, 9, 12, 18, 24, 36, and 72. So 72 is not a prime number.
+",composite,composite,2_digit_composite,72,2,36,correct
+72_Q4,Q4,"
+72 is divisible by 2, 3, 4, 6, 8, 9, 12, 18, 24, 36, and 72. So 72 is a composite number.
+",composite,composite,2_digit_composite,72,2,36,correct
+74_Q2,Q2,"
+74 is divisible by 2, 37, and 1. So 74 is not a prime number.
+",composite,composite,2_digit_composite,74,2,37,correct
+74_Q4,Q4,"
+74 is divisible by 2, 37, and 1. So 74 is a composite number.
+",composite,composite,2_digit_composite,74,2,37,correct
+76_Q2,Q2,"
+76 is divisible by 2, 4, 19, and 38. So 76 is not a prime number.
+",composite,composite,2_digit_composite,76,2,38,correct
+76_Q4,Q4,"
+76 is divisible by 2, 4, 19, and 38. So 76 is a composite number.
+",composite,composite,2_digit_composite,76,2,38,correct
+78_Q2,Q2,"
+78 is divisible by 2, 3, and 13. So 78 is not a prime number.
+",composite,composite,2_digit_composite,78,2,39,correct
+78_Q4,Q4,"
+78 is divisible by 2, 3, and 13. 78 is a composite number.
+",composite,composite,2_digit_composite,78,2,39,correct
+80_Q2,Q2,"
+80 is divisible by 2, 4, 5, 8, 10, 16, 20, 40. So 80 is not a prime number.
+",composite,composite,2_digit_composite,80,2,40,correct
+80_Q4,Q4,"
+80 is divisible by 2, 4, 5, 8, 10, 16, 20, 40. So 80 is a composite number.
+",composite,composite,2_digit_composite,80,2,40,correct
+81_Q2,Q2,"
+81 is divisible by 3. 81 is not a prime number.
+",composite,composite,2_digit_composite,81,3,27,correct
+86_Q2,Q2,"
+86 is divisible by 2, 43, and 1. So 86 is not a prime number.
+",composite,composite,2_digit_composite,86,2,43,correct
+87_Q4,Q4,"
+87 is not prime because 87 is divisible by 3.
+Thus, the final answer is yes.
+",composite,composite,2_digit_composite,87,3,29,correct
+88_Q2,Q2,"
+88 is divisible by 2, 4, 11, and 88. So 88 is not a prime number.
+",composite,composite,2_digit_composite,88,2,44,correct
+88_Q4,Q4,"
+88 is divisible by 2, 4, 11, and 88. So 88 is a composite number.
+",composite,composite,2_digit_composite,88,2,44,correct
+90_Q2,Q2,"
+90 is divisible by 2, 3, and 5. So 90 is not a prime number.
+",composite,composite,2_digit_composite,90,2,45,correct
+90_Q4,Q4,"
+90 is divisible by 2, 3, and 5. 90 is a composite number.
+",composite,composite,2_digit_composite,90,2,45,correct
+91_Q4,Q4,"
+91 is not prime because 91 is divisible by 7.
+Therefore, the final answer is yes.
+",composite,composite,2_digit_composite,91,7,13,correct
+92_Q2,Q2,"
+92 is divisible by 2, 4, 23, and 46. So 92 is not a prime number.
+",composite,composite,2_digit_composite,92,2,46,correct
+92_Q4,Q4,"
+92 is divisible by 2, 4, 23, and 46. So 92 is a composite number.
+",composite,composite,2_digit_composite,92,2,46,correct
+93_Q4,Q4,"
+93 is not prime because 93 is divisible by 3.
+Therefore, the final answer is yes.
+",composite,composite,2_digit_composite,93,3,31,correct
+94_Q2,Q2,"
+94 is divisible by 2. 94 is not a prime number.
+",composite,composite,2_digit_composite,94,2,47,correct
+98_Q4,Q4,"
+98 is divisible by 2, 7, and 14. 98 is a composite number.
+",composite,composite,2_digit_composite,98,2,49,correct
+99_Q4,Q4,"
+99 is divisible by 3 because the sum of its digits is 9 + 9 = 18, which is divisible by 3. 99 is also divisible by 11 because the difference between its digits is 9 - 9 = 0, which is divisible by 11. Therefore, 99 is a composite number.
+",composite,composite,2_digit_composite,99,3,33,correct
+535_Q2,Q2,"
+535 is divisible by 5. 535 is not a prime number.
+",composite,composite,3_digit_easy_composite,535,5,107,correct
+543_Q2,Q2,"
+543 is divisible by 3 because the sum of its digits is 12, which is divisible by 3. So, the final answer is no.
+",composite,composite,3_digit_easy_composite,543,3,181,correct
+543_Q4,Q4,"
+543 is divisible by 3 because the sum of its digits is 12, which is divisible by 3. So, the final answer is yes.
+",composite,composite,3_digit_easy_composite,543,3,181,correct
+545_Q2,Q2,"
+545 is divisible by 5. 545 is not a prime number.
+",composite,composite,3_digit_easy_composite,545,5,109,correct
+565_Q2,Q2,"
+565 is divisible by 5. 565 is not a prime number.
+",composite,composite,3_digit_easy_composite,565,5,113,correct
+573_Q2,Q2,"
+573 is divisible by 3 because the sum of its digits is 16, which is divisible by 3. So, the final answer is no.
+",composite,composite,3_digit_easy_composite,573,3,191,correct
+573_Q4,Q4,"
+573 is divisible by 3 because the sum of its digits is 16, which is divisible by 3. 573 is also divisible by 19 because 573 / 19 = 30. So 573 is a composite number.
+",composite,composite,3_digit_easy_composite,573,3,191,correct
+106_Q2,Q2,"
+106 is divisible by 2, 53, and 1. So, 106 is not a prime number.
+",composite,composite,3_digit_easy_composite,106,2,53,correct
+111_Q2,Q2,"
+111 is divisible by 3. 111 is not a prime number.
+",composite,composite,3_digit_easy_composite,111,3,37,correct
+111_Q4,Q4,"
+111 is divisible by 3 because the sum of its digits is 3. 111 is a composite number.
+",composite,composite,3_digit_easy_composite,111,3,37,correct
+633_Q2,Q2,"
+633 is divisible by 3 because the sum of its digits is 12, which is divisible by 3. So, the final answer is no.
+",composite,composite,3_digit_easy_composite,633,3,211,correct
+122_Q2,Q2,"
+122 is divisible by 2. 122 is not a prime number.
+",composite,composite,3_digit_easy_composite,122,2,61,correct
+142_Q2,Q2,"
+142 is divisible by 2. 142 is not a prime number.
+",composite,composite,3_digit_easy_composite,142,2,71,correct
+142_Q4,Q4,"
+142 is divisible by 2, 71, and 142. 142 is a composite number.
+",composite,composite,3_digit_easy_composite,142,2,71,correct
+146_Q2,Q2,"
+146 is divisible by 2, 73, and 146. So 146 is not a prime number.
+",composite,composite,3_digit_easy_composite,146,2,73,correct
+669_Q2,Q2,"
+669 is divisible by 3 because the sum of its digits is 19, which is divisible by 3. So, the final answer is no.
+",composite,composite,3_digit_easy_composite,669,3,223,correct
+161_Q2,Q2,"
+161 is divisible by 1, 161, and 7. 161 is not divisible by any other number. So 161 is not a prime number.
+",composite,composite,3_digit_easy_composite,161,7,23,correct
+681_Q2,Q2,"
+681 is divisible by 3 because the sum of its digits is 15, which is divisible by 3. So, the final answer is no.
+",composite,composite,3_digit_easy_composite,681,3,227,correct
+687_Q2,Q2,"
+687 is divisible by 3 because the sum of its digits is 18, which is divisible by 3. So, the final answer is no.
+",composite,composite,3_digit_easy_composite,687,3,229,correct
+699_Q2,Q2,"
+699 is divisible by 3 because the sum of its digits is 19, which is divisible by 3. So, the final answer is no.
+",composite,composite,3_digit_easy_composite,699,3,233,correct
+194_Q2,Q2,"
+194 is divisible by 2. 194 is not a prime number.
+",composite,composite,3_digit_easy_composite,194,2,97,correct
+707_Q2,Q2,"
+707 is divisible by 7. 707 is not a prime number.
+",composite,composite,3_digit_easy_composite,707,7,101,correct
+717_Q4,Q4,"
+717 is divisible by 3 because the sum of its digits is 7 + 1 + 7 = 15, which is divisible by 3. So 717 is a composite number.
+",composite,composite,3_digit_easy_composite,717,3,239,correct
+721_Q2,Q2,"
+721 is divisible by 7. 721 is not a prime number.
+",composite,composite,3_digit_easy_composite,721,7,103,correct
+723_Q2,Q2,"
+723 is divisible by 3 because the sum of its digits is 12, which is divisible by 3. So, the final answer is no.
+",composite,composite,3_digit_easy_composite,723,3,241,correct
+723_Q4,Q4,"
+723 is divisible by 3 because the sum of its digits is 12, which is divisible by 3. So, the final answer is yes.
+",composite,composite,3_digit_easy_composite,723,3,241,correct
+213_Q2,Q2,"
+213 is divisible by 3 because the sum of its digits is 6, which is divisible by 3.
+Therefore, the final answer is no.
+",composite,composite,3_digit_easy_composite,213,3,71,correct
+746_Q2,Q2,"
+746 is divisible by 2. 746 is not a prime number.
+",composite,composite,3_digit_easy_composite,746,2,373,correct
+749_Q2,Q2,"
+749 is divisible by 7. 749 is not a prime number.
+",composite,composite,3_digit_easy_composite,749,7,107,correct
+753_Q2,Q2,"
+753 is divisible by 3 because the sum of its digits is 15, which is divisible by 3. So, the final answer is no.
+",composite,composite,3_digit_easy_composite,753,3,251,correct
+789_Q2,Q2,"
+789 is divisible by 3 because the sum of its digits is 24, which is divisible by 3. So, the final answer is no.
+",composite,composite,3_digit_easy_composite,789,3,263,correct
+789_Q4,Q4,"
+789 is divisible by 3 because the sum of its digits is 24, which is divisible by 3. So 789 is a composite number.
+",composite,composite,3_digit_easy_composite,789,3,263,correct
+791_Q2,Q2,"
+791 is divisible by 7. 791 is not a prime number.
+",composite,composite,3_digit_easy_composite,791,7,113,correct
+807_Q2,Q2,"
+807 is divisible by 3 because the sum of its digits is 8 + 0 + 7 = 15, which is divisible by 3. So 807 is not a prime number.
+",composite,composite,3_digit_easy_composite,807,3,269,correct
+807_Q4,Q4,"
+807 is divisible by 3 because the sum of its digits is 8 + 0 + 7 = 15, which is divisible by 3. So 807 is a composite number.
+",composite,composite,3_digit_easy_composite,807,3,269,correct
+813_Q2,Q2,"
+813 is divisible by 3 because the sum of its digits is 12, which is divisible by 3. So, the final answer is no.
+",composite,composite,3_digit_easy_composite,813,3,271,correct
+303_Q2,Q2,"
+303 is divisible by 3 because the sum of its digits is 3 + 0 + 3 = 6, which is divisible by 3. So 303 is not a prime number.
+",composite,composite,3_digit_easy_composite,303,3,101,correct
+301_Q4,Q4,"
+301 is not prime because 301 = 13 * 23.
+Thus, the final answer is yes.
+",composite,composite,3_digit_easy_composite,301,7,43,wrong
+309_Q2,Q2,"
+309 is divisible by 3. 309 is not a prime number.
+",composite,composite,3_digit_easy_composite,309,3,103,correct
+321_Q2,Q2,"
+321 is divisible by 3. 321 is not a prime number.
+",composite,composite,3_digit_easy_composite,321,3,107,correct
+327_Q2,Q2,"
+327 is divisible by 3. 327 is not a prime number.
+",composite,composite,3_digit_easy_composite,327,3,109,correct
+843_Q2,Q2,"
+843 is divisible by 3 because the sum of its digits is 15, which is divisible by 3. So, the final answer is no.
+",composite,composite,3_digit_easy_composite,843,3,281,correct
+334_Q2,Q2,"
+334 is divisible by 2. 334 is not a prime number.
+",composite,composite,3_digit_easy_composite,334,2,167,correct
+849_Q2,Q2,"
+849 is divisible by 3 because the sum of its digits is 12, which is divisible by 3. So, the final answer is no.
+",composite,composite,3_digit_easy_composite,849,3,283,correct
+862_Q2,Q2,"
+862 is divisible by 2. 862 is not a prime number.
+",composite,composite,3_digit_easy_composite,862,2,431,correct
+879_Q2,Q2,"
+879 is divisible by 3 because the sum of its digits is 22, which is divisible by 3. So, the final answer is no.
+",composite,composite,3_digit_easy_composite,879,3,293,correct
+879_Q4,Q4,"
+879 is divisible by 3 because the sum of its digits is 8 + 7 + 9 = 24, which is divisible by 3. So 879 is a composite number.
+",composite,composite,3_digit_easy_composite,879,3,293,correct
+898_Q2,Q2,"
+898 is divisible by 2. 898 is not a prime number.
+",composite,composite,3_digit_easy_composite,898,2,449,correct
+393_Q2,Q2,"
+393 is divisible by 3. 393 is not a prime number.
+",composite,composite,3_digit_easy_composite,393,3,131,correct
+394_Q2,Q2,"
+394 is divisible by 2. 394 is not a prime number.
+",composite,composite,3_digit_easy_composite,394,2,197,correct
+411_Q2,Q2,"
+411 is divisible by 3 because the sum of its digits is 4 + 1 + 1 = 6, which is divisible by 3. So, the final answer is no.
+",composite,composite,3_digit_easy_composite,411,3,137,correct
+933_Q2,Q2,"
+933 is divisible by 3 because the sum of its digits is 9 + 3 + 3 = 15, which is divisible by 3. So 933 is not a prime number.
+",composite,composite,3_digit_easy_composite,933,3,311,correct
+939_Q2,Q2,"
+939 is divisible by 3 because the sum of its digits is 18, which is divisible by 3. So, the final answer is no.
+",composite,composite,3_digit_easy_composite,939,3,313,correct
+427_Q2,Q2,"
+427 is divisible by 1, 427, and 7. 427 is not divisible by 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29,
+",composite,composite,3_digit_easy_composite,427,7,61,correct
+951_Q2,Q2,"
+951 is divisible by 3 because the sum of its digits is 14, which is divisible by 3. So, the final answer is no.
+",composite,composite,3_digit_easy_composite,951,3,317,correct
+446_Q2,Q2,"
+446 is divisible by 2. 446 is not a prime number.
+",composite,composite,3_digit_easy_composite,446,2,223,correct
+453_Q4,Q4,"
+453 is divisible by 3 because the sum of its digits is 4 + 5 + 3 = 12, which is divisible by 3. So, the final answer is yes.
+",composite,composite,3_digit_easy_composite,453,3,151,correct
+466_Q2,Q2,"
+466 is divisible by 2. 466 is not a prime number.
+",composite,composite,3_digit_easy_composite,466,2,233,correct
+471_Q4,Q4,"
+471 is divisible by 3 because the sum of its digits is 12, which is divisible by 3. So, the final answer is yes.
+",composite,composite,3_digit_easy_composite,471,3,157,correct
+993_Q4,Q4,"
+993 is divisible by 3 because the sum of its digits is 9 + 9 + 3 = 21, which is divisible by 3. So 993 is a composite number.
+",composite,composite,3_digit_easy_composite,993,3,331,correct
+482_Q2,Q2,"
+482 is divisible by 2. 482 is not a prime number.
+",composite,composite,3_digit_easy_composite,482,2,241,correct
+998_Q2,Q2,"
+998 is divisible by 2. 998 is not a prime number.
+",composite,composite,3_digit_easy_composite,998,2,499,correct
+501_Q4,Q4,"
+501 is divisible by 3 because the sum of its digits is 5 + 0 + 1 = 6, which is divisible by 3. So, the final answer is yes.
+",composite,composite,3_digit_easy_composite,501,3,167,correct
+319_Q4,Q4,"
+319 is divisible by 11. 319 is a composite number.
+",composite,composite,3_digit_medium_composite,319,11,29,correct
+3273_Q2,Q2,"
+3273 is divisible by 3 because the sum of its digits is 13, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,3273,3,1091,correct
+5739_Q2,Q2,"
+5739 is divisible by 3 because the sum of its digits is 16, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,5739,3,1913,correct
+3849_Q2,Q2,"
+3849 is divisible by 3. 3849 is not a prime number.
+",composite,composite,4_digit_easy_composite,3849,3,1283,correct
+3891_Q2,Q2,"
+3891 is divisible by 3 because the sum of its digits is 13, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,3891,3,1297,correct
+4143_Q2,Q2,"
+4143 is divisible by 3 because the sum of its digits is 12, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,4143,3,1381,correct
+4143_Q4,Q4,"
+4143 is divisible by 3 because the sum of its digits is 12, which is divisible by 3. So, the final answer is yes.
+",composite,composite,4_digit_easy_composite,4143,3,1381,correct
+4413_Q2,Q2,"
+4413 is divisible by 3 because the sum of its digits is 12, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,4413,3,1471,correct
+4413_Q4,Q4,"
+4413 is divisible by 3 because the sum of its digits is 12, which is divisible by 3. So, the final answer is yes.
+",composite,composite,4_digit_easy_composite,4413,3,1471,correct
+4839_Q2,Q2,"
+4839 is divisible by 3 because the sum of its digits is 15, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,4839,3,1613,correct
+5919_Q2,Q2,"
+5919 is divisible by 3 because the sum of its digits is 19, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,5919,3,1973,correct
+7147_Q2,Q2,"
+7147 is divisible by 7. 7147 is not a prime number.
+",composite,composite,4_digit_easy_composite,7147,7,1021,correct
+8698_Q2,Q2,"
+8698 is divisible by 2. So, 8698 is not a prime number.
+",composite,composite,4_digit_easy_composite,8698,2,4349,correct
+8102_Q2,Q2,"
+8102 is divisible by 2. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,8102,2,4051,correct
+3802_Q2,Q2,"
+3802 is divisible by 2. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,3802,2,1901,correct
+8254_Q2,Q2,"
+8254 is divisible by 2. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,8254,2,4127,correct
+3903_Q2,Q2,"
+3903 is divisible by 3. 3903 is not a prime number.
+",composite,composite,4_digit_easy_composite,3903,3,1301,correct
+3039_Q2,Q2,"
+3039 is divisible by 3 because the sum of its digits is 12, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,3039,3,1013,correct
+9777_Q2,Q2,"
+9777 is divisible by 3 because the sum of its digits is 21, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,9777,3,3259,correct
+1589_Q2,Q2,"
+1589 is divisible by 1, 1589, and 7. 1589 is not divisible by any other number. So 1589 is not a prime number.
+",composite,composite,4_digit_easy_composite,1589,7,227,correct
+1142_Q2,Q2,"
+1142 is divisible by 2. 1142 is not a prime number.
+",composite,composite,4_digit_easy_composite,1142,2,571,correct
+2181_Q2,Q2,"
+2181 is divisible by 3 because the sum of its digits is 12, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,2181,3,727,correct
+6694_Q2,Q2,"
+6694 is divisible by 2. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,6694,2,3347,correct
+8499_Q2,Q2,"
+8499 is divisible by 3 because the sum of its digits is 33, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,8499,3,2833,correct
+8499_Q4,Q4,"
+8499 is divisible by 3 because the sum of its digits is 22, which is divisible by 3. So, the final answer is yes.
+",composite,composite,4_digit_easy_composite,8499,3,2833,correct
+8097_Q2,Q2,"
+8097 is divisible by 3 because the sum of its digits is 26, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,8097,3,2699,correct
+8097_Q4,Q4,"
+8097 is divisible by 3 because the sum of its digits is 8 + 0 + 9 + 7 = 24, which is divisible by 3. So 8097 is a composite number.
+",composite,composite,4_digit_easy_composite,8097,3,2699,correct
+7091_Q2,Q2,"
+7091 is divisible by 7. 7091 is not a prime number.
+",composite,composite,4_digit_easy_composite,7091,7,1013,correct
+9057_Q2,Q2,"
+9057 is divisible by 3 because the sum of its digits is 21, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,9057,3,3019,correct
+4083_Q2,Q2,"
+4083 is divisible by 3 because the sum of its digits is 15, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,4083,3,1361,correct
+7985_Q2,Q2,"
+7985 is divisible by 5. 7985 is not a prime number.
+",composite,composite,4_digit_easy_composite,7985,5,1597,correct
+9957_Q2,Q2,"
+9957 is divisible by 3 because the sum of its digits is 25 which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,9957,3,3319,correct
+7778_Q2,Q2,"
+7778 is divisible by 2. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,7778,2,3889,correct
+7702_Q2,Q2,"
+7702 is divisible by 2. 7702 is not a prime number.
+",composite,composite,4_digit_easy_composite,7702,2,3851,correct
+5102_Q2,Q2,"
+5102 is divisible by 2. 5102 is not a prime number.
+",composite,composite,4_digit_easy_composite,5102,2,2551,correct
+8038_Q2,Q2,"
+8038 is divisible by 2. So, 8038 is not a prime number.
+",composite,composite,4_digit_easy_composite,8038,2,4019,correct
+7217_Q2,Q2,"
+7217 is divisible by 7. 7217 is not a prime number.
+",composite,composite,4_digit_easy_composite,7217,7,1031,correct
+3805_Q2,Q2,"
+3805 is divisible by 5. 3805 is not a prime number.
+",composite,composite,4_digit_easy_composite,3805,5,761,correct
+6905_Q2,Q2,"
+6905 is divisible by 5. 6905 is not a prime number.
+",composite,composite,4_digit_easy_composite,6905,5,1381,correct
+8005_Q2,Q2,"
+8005 is divisible by 5. 8005 is not a prime number.
+",composite,composite,4_digit_easy_composite,8005,5,1601,correct
+5979_Q2,Q2,"
+5979 is divisible by 3 because the sum of its digits is 26, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,5979,3,1993,correct
+3279_Q2,Q2,"
+3279 is divisible by 3. 3279 is not a prime number.
+",composite,composite,4_digit_easy_composite,3279,3,1093,correct
+3693_Q2,Q2,"
+3693 is divisible by 3 because the sum of its digits is 18, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,3693,3,1231,correct
+9249_Q2,Q2,"
+9249 is divisible by 3 because the sum of its digits is 15, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,9249,3,3083,correct
+6662_Q2,Q2,"
+6662 is divisible by 2. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,6662,2,3331,correct
+6085_Q2,Q2,"
+6085 is divisible by 5. 6085 is not a prime number.
+",composite,composite,4_digit_easy_composite,6085,5,1217,correct
+6295_Q2,Q2,"
+6295 is divisible by 5. 6295 is not a prime number.
+",composite,composite,4_digit_easy_composite,6295,5,1259,correct
+5702_Q2,Q2,"
+5702 is divisible by 2. 5702 is not a prime number.
+",composite,composite,4_digit_easy_composite,5702,2,2851,correct
+6395_Q2,Q2,"
+6395 is divisible by 5. 6395 is not a prime number.
+",composite,composite,4_digit_easy_composite,6395,5,1279,correct
+9445_Q2,Q2,"
+9445 is divisible by 5. 9445 is not a prime number.
+",composite,composite,4_digit_easy_composite,9445,5,1889,correct
+2487_Q2,Q2,"
+2487 is divisible by 3 because the sum of its digits is 21, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,2487,3,829,correct
+2487_Q4,Q4,"
+2487 is divisible by 3 because the sum of its digits is 2 + 4 + 8 + 7 = 21, which is divisible by 3. So 2487 is a composite number.
+",composite,composite,4_digit_easy_composite,2487,3,829,correct
+8553_Q2,Q2,"
+8553 is divisible by 3 because the sum of its digits is 16 which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,8553,3,2851,correct
+8553_Q4,Q4,"
+8553 is divisible by 3 because the sum of its digits is 16 which is divisible by 3. So, the final answer is yes.
+",composite,composite,4_digit_easy_composite,8553,3,2851,correct
+7555_Q2,Q2,"
+7555 is divisible by 5. 7555 is not a prime number.
+",composite,composite,4_digit_easy_composite,7555,5,1511,correct
+1994_Q2,Q2,"
+1994 is divisible by 2. 1994 is not a prime number.
+",composite,composite,4_digit_easy_composite,1994,2,997,correct
+9363_Q2,Q2,"
+9363 is divisible by 3 because the sum of its digits is 18, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,9363,3,3121,correct
+9098_Q2,Q2,"
+9098 is divisible by 2. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,9098,2,4549,correct
+6145_Q2,Q2,"
+6145 is divisible by 5. 6145 is not a prime number.
+",composite,composite,4_digit_easy_composite,6145,5,1229,correct
+8278_Q2,Q2,"
+8278 is divisible by 2. So, 8278 is not a prime number.
+",composite,composite,4_digit_easy_composite,8278,2,4139,correct
+5403_Q2,Q2,"
+5403 is divisible by 3 because the sum of its digits is 12, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,5403,3,1801,correct
+1299_Q2,Q2,"
+1299 is divisible by 1, 1299, and 3. 1299 is not prime.
+",composite,composite,4_digit_easy_composite,1299,3,433,correct
+4227_Q2,Q2,"
+4227 is divisible by 3 because the sum of its digits is 13, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,4227,3,1409,correct
+2045_Q2,Q2,"
+2045 is divisible by 5. 2045 is not a prime number.
+",composite,composite,4_digit_easy_composite,2045,5,409,correct
+3453_Q2,Q2,"
+3453 is divisible by 3 because the sum of its digits is 15, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,3453,3,1151,correct
+7231_Q2,Q2,"
+7231 is divisible by 7. 7231 is not a prime number.
+",composite,composite,4_digit_easy_composite,7231,7,1033,correct
+1822_Q2,Q2,"
+1822 is divisible by 2. 1822 is not a prime number.
+",composite,composite,4_digit_easy_composite,1822,2,911,correct
+8187_Q2,Q2,"
+8187 is divisible by 3 because the sum of its digits is 16 which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,8187,3,2729,correct
+8187_Q4,Q4,"
+8187 is divisible by 3 because the sum of its digits is 16 which is divisible by 3. So, the final answer is yes.
+",composite,composite,4_digit_easy_composite,8187,3,2729,correct
+4702_Q2,Q2,"
+4702 is divisible by 2. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,4702,2,2351,correct
+7235_Q2,Q2,"
+7235 is divisible by 5. 7235 is not a prime number.
+",composite,composite,4_digit_easy_composite,7235,5,1447,correct
+8407_Q2,Q2,"
+8407 is divisible by 7. 8407 is not a prime number.
+",composite,composite,4_digit_easy_composite,8407,7,1201,correct
+5637_Q2,Q2,"
+5637 is divisible by 3 because the sum of its digits is 16, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,5637,3,1879,correct
+8751_Q2,Q2,"
+8751 is divisible by 3 because the sum of its digits is 26, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,8751,3,2917,correct
+3831_Q2,Q2,"
+3831 is divisible by 3. 3831 is not a prime number.
+",composite,composite,4_digit_easy_composite,3831,3,1277,correct
+1138_Q2,Q2,"
+1138 is divisible by 2. 1138 is not a prime number.
+",composite,composite,4_digit_easy_composite,1138,2,569,correct
+2103_Q2,Q2,"
+2103 is divisible by 3 because the sum of its digits is 6, which is divisible by 3.
+Therefore, the final answer is no.
+",composite,composite,4_digit_easy_composite,2103,3,701,correct
+9247_Q2,Q2,"
+9247 is divisible by 7. 9247 is not a prime number.
+",composite,composite,4_digit_easy_composite,9247,7,1321,correct
+1282_Q2,Q2,"
+1282 is divisible by 2. 1282 is not a prime number.
+",composite,composite,4_digit_easy_composite,1282,2,641,correct
+3118_Q2,Q2,"
+3118 is divisible by 2. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,3118,2,1559,correct
+9123_Q2,Q2,"
+9123 is divisible by 3 because the sum of its digits is 9 + 1 + 2 + 3 = 15, which is divisible by 3. So 9123 is not a prime number.
+",composite,composite,4_digit_easy_composite,9123,3,3041,correct
+9123_Q4,Q4,"
+9123 is divisible by 3 because the sum of its digits is 9 + 1 + 2 + 3 = 15, which is divisible by 3. So 9123 is a composite number.
+",composite,composite,4_digit_easy_composite,9123,3,3041,correct
+8409_Q2,Q2,"
+8409 is divisible by 3 because the sum of its digits is 12, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,8409,3,2803,correct
+4971_Q2,Q2,"
+4971 is divisible by 3 because the sum of its digits is 17, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,4971,3,1657,correct
+4317_Q4,Q4,"
+4317 is divisible by 3 because the sum of its digits is 14, which is divisible by 3. So, the final answer is yes.
+",composite,composite,4_digit_easy_composite,4317,3,1439,correct
+6879_Q2,Q2,"
+6879 is divisible by 3 because the sum of its digits is 24, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,6879,3,2293,correct
+8727_Q2,Q2,"
+8727 is divisible by 3 because the sum of its digits is 18, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,8727,3,2909,correct
+2643_Q2,Q2,"
+2643 is divisible by 3 because the sum of its digits is 15, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,2643,3,881,correct
+7118_Q2,Q2,"
+7118 is divisible by 2. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,7118,2,3559,correct
+6429_Q2,Q2,"
+6429 is divisible by 3 because the sum of its digits is 18, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,6429,3,2143,correct
+7795_Q2,Q2,"
+7795 is divisible by 5. 7795 is not a prime number.
+",composite,composite,4_digit_easy_composite,7795,5,1559,correct
+3063_Q2,Q2,"
+3063 is divisible by 3 because the sum of its digits is 12, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,3063,3,1021,correct
+2305_Q2,Q2,"
+2305 is divisible by 5. 2305 is not a prime number.
+",composite,composite,4_digit_easy_composite,2305,5,461,correct
+2217_Q2,Q2,"
+2217 is divisible by 3 because the sum of its digits is 12, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,2217,3,739,correct
+2571_Q2,Q2,"
+2571 is divisible by 3 because the sum of its digits is 15, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,2571,3,857,correct
+4781_Q2,Q2,"
+4781 is divisible by 1, 4781, and 7. 4781 is not divisible by 2, 3, 5, or any number above 7. So 4781 is not a prime number.
+",composite,composite,4_digit_easy_composite,4781,7,683,correct
+1882_Q2,Q2,"
+1882 is divisible by 2. 1882 is not a prime number.
+",composite,composite,4_digit_easy_composite,1882,2,941,correct
+7295_Q2,Q2,"
+7295 is divisible by 5. 7295 is not a prime number.
+",composite,composite,4_digit_easy_composite,7295,5,1459,correct
+1563_Q2,Q2,"
+1563 is divisible by 3 because the sum of its digits is 15, which is divisible by 3. So, 1563 is not a prime number.
+",composite,composite,4_digit_easy_composite,1563,3,521,correct
+6393_Q2,Q2,"
+6393 is divisible by 3 because the sum of its digits is 18, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,6393,3,2131,correct
+3603_Q2,Q2,"
+3603 is divisible by 3. 3603 is not a prime number.
+",composite,composite,4_digit_easy_composite,3603,3,1201,correct
+2823_Q2,Q2,"
+2823 is divisible by 3 because the sum of its digits is 13, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,2823,3,941,correct
+3981_Q2,Q2,"
+3981 is divisible by 3. 3981 is not a prime number.
+",composite,composite,4_digit_easy_composite,3981,3,1327,correct
+1205_Q2,Q2,"
+1205 is divisible by 5. 1205 is not a prime number.
+",composite,composite,4_digit_easy_composite,1205,5,241,correct
+3057_Q2,Q2,"
+3057 is divisible by 3 because the sum of its digits is 15, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,3057,3,1019,correct
+8691_Q2,Q2,"
+8691 is divisible by 1, 8691, and 3. So 8691 is not a prime number.
+",composite,composite,4_digit_easy_composite,8691,3,2897,correct
+2018_Q2,Q2,"
+2018 is divisible by 2. 2018 is not a prime number.
+",composite,composite,4_digit_easy_composite,2018,2,1009,correct
+8067_Q2,Q2,"
+8067 is divisible by 3 because the sum of its digits is 21, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,8067,3,2689,correct
+8067_Q4,Q4,"
+8067 is divisible by 3 because the sum of its digits is 15, which is divisible by 3. So, the final answer is yes.
+",composite,composite,4_digit_easy_composite,8067,3,2689,correct
+4863_Q2,Q2,"
+4863 is divisible by 3 because the sum of its digits is 18, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,4863,3,1621,correct
+1858_Q2,Q2,"
+1858 is divisible by 2. So, 1858 is not a prime number.
+",composite,composite,4_digit_easy_composite,1858,2,929,correct
+7441_Q2,Q2,"
+7441 is divisible by 7. 7441 is not a prime number.
+",composite,composite,4_digit_easy_composite,7441,7,1063,correct
+1293_Q2,Q2,"
+1293 is divisible by 3 because the sum of its digits is 12, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,1293,3,431,correct
+1167_Q2,Q2,"
+1167 is divisible by 3 because the sum of its digits is 14, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,1167,3,389,correct
+1707_Q2,Q2,"
+1707 is divisible by 3 because the sum of its digits is 10, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,1707,3,569,correct
+1841_Q2,Q2,"
+1841 is divisible by 1, 1841, and 7. 1841 is not divisible by 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 
+",composite,composite,4_digit_easy_composite,1841,7,263,correct
+7418_Q2,Q2,"
+7418 is divisible by 2. So, 7418 is not a prime number.
+",composite,composite,4_digit_easy_composite,7418,2,3709,correct
+8373_Q2,Q2,"
+8373 is divisible by 3 because the sum of its digits is 14, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,8373,3,2791,correct
+2283_Q2,Q2,"
+2283 is divisible by 3 because the sum of its digits is 13, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,2283,3,761,correct
+6459_Q2,Q2,"
+6459 is divisible by 3 because the sum of its digits is 19, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,6459,3,2153,correct
+3873_Q2,Q2,"
+3873 is divisible by 3 because the sum of its digits is 18, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,3873,3,1291,correct
+1042_Q2,Q2,"
+1042 is divisible by 2. 1042 is not a prime number.
+",composite,composite,4_digit_easy_composite,1042,2,521,correct
+6753_Q2,Q2,"
+6753 is divisible by 3 because the sum of its digits is 18, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,6753,3,2251,correct
+6185_Q2,Q2,"
+6185 is divisible by 5. 6185 is not a prime number.
+",composite,composite,4_digit_easy_composite,6185,5,1237,correct
+6385_Q2,Q2,"
+6385 is divisible by 5. 6385 is not a prime number.
+",composite,composite,4_digit_easy_composite,6385,5,1277,correct
+4377_Q2,Q2,"
+4377 is divisible by 3 because the sum of its digits is 14, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,4377,3,1459,correct
+7405_Q2,Q2,"
+7405 is divisible by 5. 7405 is not a prime number.
+",composite,composite,4_digit_easy_composite,7405,5,1481,correct
+4287_Q2,Q2,"
+4287 is divisible by 3 because the sum of its digits is 13, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,4287,3,1429,correct
+6933_Q2,Q2,"
+6933 is divisible by 3 because the sum of its digits is 18, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,6933,3,2311,correct
+4443_Q2,Q2,"
+4443 is divisible by 3 because the sum of its digits is 15, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,4443,3,1481,correct
+4443_Q4,Q4,"
+4443 is divisible by 3 because the sum of its digits is 15, which is divisible by 3. So, the final answer is yes.
+",composite,composite,4_digit_easy_composite,4443,3,1481,correct
+8031_Q2,Q2,"
+8031 is divisible by 1, 8031, and 3. So 8031 is not a prime number.
+",composite,composite,4_digit_easy_composite,8031,3,2677,correct
+9998_Q2,Q2,"
+9998 is divisible by 2. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,9998,2,4999,correct
+1203_Q4,Q4,"
+1203 is divisible by 3 because the sum of its digits is 1 + 2 + 0 + 3 = 6, which is divisible by 3. So, 1203 is a composite number.
+",composite,composite,4_digit_easy_composite,1203,3,401,correct
+7971_Q4,Q4,"
+7971 is divisible by 3 because the sum of its digits is 19 which is divisible by 3. So, the final answer is yes.
+",composite,composite,4_digit_easy_composite,7971,3,2657,correct
+7113_Q2,Q2,"
+7113 is divisible by 3 because the sum of its digits is 11 which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,7113,3,2371,correct
+7113_Q4,Q4,"
+7113 is divisible by 3 because the sum of its digits is 11, which is divisible by 3. So, the final answer is yes.
+",composite,composite,4_digit_easy_composite,7113,3,2371,correct
+5997_Q2,Q2,"
+5997 is divisible by 3 because the sum of its digits is 26, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,5997,3,1999,correct
+6065_Q2,Q2,"
+6065 is divisible by 5. 6065 is not a prime number.
+",composite,composite,4_digit_easy_composite,6065,5,1213,correct
+6297_Q2,Q2,"
+6297 is divisible by 3 because the sum of its digits is 18, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,6297,3,2099,correct
+6297_Q4,Q4,"
+6297 is divisible by 3 because the sum of its digits is 18, which is divisible by 3. So, the final answer is yes.
+",composite,composite,4_digit_easy_composite,6297,3,2099,correct
+4827_Q2,Q2,"
+4827 is divisible by 3 because the sum of its digits is 13, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,4827,3,1609,correct
+6002_Q2,Q2,"
+6002 is divisible by 2. 6002 is not a prime number.
+",composite,composite,4_digit_easy_composite,6002,2,3001,correct
+7142_Q2,Q2,"
+7142 is divisible by 2. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,7142,2,3571,correct
+1527_Q2,Q2,"
+1527 is divisible by 3 because the sum of its digits is 15 which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,1527,3,509,correct
+2605_Q2,Q2,"
+2605 is divisible by 5. 2605 is not a prime number.
+",composite,composite,4_digit_easy_composite,2605,5,521,correct
+5169_Q2,Q2,"
+5169 is divisible by 3 because the sum of its digits is 19, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,5169,3,1723,correct
+8193_Q2,Q2,"
+8193 is divisible by 3 because the sum of its digits is 12, which is divisible by 3. So 8193 is not a prime number.
+",composite,composite,4_digit_easy_composite,8193,3,2731,correct
+7143_Q2,Q2,"
+7143 is divisible by 3 because the sum of its digits is 14 which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,7143,3,2381,correct
+2589_Q4,Q4,"
+2589 is divisible by 3 because the sum of its digits is 2 + 5 + 8 + 9 = 24, which is divisible by 3. So 2589 is a composite number.
+",composite,composite,4_digit_easy_composite,2589,3,863,correct
+5433_Q2,Q2,"
+5433 is divisible by 3 because the sum of its digits is 15, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,5433,3,1811,correct
+6937_Q2,Q2,"
+6937 is divisible by 7. 6937 is not a prime number.
+",composite,composite,4_digit_easy_composite,6937,7,991,correct
+2757_Q2,Q2,"
+2757 is divisible by 3 because the sum of its digits is 14, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,2757,3,919,correct
+5721_Q2,Q2,"
+5721 is divisible by 3 because the sum of its digits is 16, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,5721,3,1907,correct
+5613_Q2,Q2,"
+5613 is divisible by 3 because the sum of its digits is 14, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,5613,3,1871,correct
+6339_Q2,Q2,"
+6339 is divisible by 3 because the sum of its digits is 18, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,6339,3,2113,correct
+9033_Q2,Q2,"
+9033 is divisible by 3 because the sum of its digits is 18, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,9033,3,3011,correct
+1983_Q2,Q2,"
+1983 is divisible by 3 because the sum of its digits is 19 + 8 + 3 = 30, which is divisible by 3. So 1983 is not a prime number.
+",composite,composite,4_digit_easy_composite,1983,3,661,correct
+1983_Q4,Q4,"
+1983 is divisible by 3 because the sum of its digits is 19 + 8 + 3 = 30, which is divisible by 3. So 1983 is a composite number.
+",composite,composite,4_digit_easy_composite,1983,3,661,correct
+9663_Q2,Q2,"
+9663 is divisible by 3 because the sum of its digits is 18, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,9663,3,3221,correct
+8095_Q2,Q2,"
+8095 is divisible by 5. 8095 is not a prime number.
+",composite,composite,4_digit_easy_composite,8095,5,1619,correct
+8529_Q2,Q2,"
+8529 is divisible by 3 because the sum of its digits is 16 which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,8529,3,2843,correct
+6805_Q2,Q2,"
+6805 is divisible by 5. 6805 is not a prime number.
+",composite,composite,4_digit_easy_composite,6805,5,1361,correct
+1982_Q2,Q2,"
+1982 is divisible by 2. 1982 is not a prime number.
+",composite,composite,4_digit_easy_composite,1982,2,991,correct
+3153_Q2,Q2,"
+3153 is divisible by 3 because the sum of its digits is 12, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,3153,3,1051,correct
+8013_Q2,Q2,"
+8013 is divisible by 3 because the sum of its digits is 12, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,8013,3,2671,correct
+8013_Q4,Q4,"
+8013 is divisible by 3 because the sum of its digits is 8 + 0 + 1 + 3 = 12, which is divisible by 3. So 8013 is a composite number.
+",composite,composite,4_digit_easy_composite,8013,3,2671,correct
+3651_Q2,Q2,"
+3651 is divisible by 3. 3651 is not a prime number.
+",composite,composite,4_digit_easy_composite,3651,3,1217,correct
+1082_Q2,Q2,"
+1082 is divisible by 2. 1082 is not a prime number.
+",composite,composite,4_digit_easy_composite,1082,2,541,correct
+2157_Q2,Q2,"
+2157 is divisible by 3 because the sum of its digits is 15 which is divisible by 3.
+Therefore, the final answer is no.
+",composite,composite,4_digit_easy_composite,2157,3,719,correct
+8259_Q2,Q2,"
+8259 is divisible by 3 because the sum of its digits is 16 which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,8259,3,2753,correct
+8259_Q4,Q4,"
+8259 is divisible by 3 because the sum of its digits is 16, which is divisible by 3. So, the final answer is yes.
+",composite,composite,4_digit_easy_composite,8259,3,2753,correct
+5601_Q2,Q2,"
+5601 is divisible by 3 because the sum of its digits is 16 which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,5601,3,1867,correct
+8781_Q2,Q2,"
+8781 is divisible by 3 because the sum of its digits is 21, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,8781,3,2927,correct
+8781_Q4,Q4,"
+8781 is divisible by 3 because the sum of its digits is 21, which is divisible by 3. So, the final answer is yes.
+",composite,composite,4_digit_easy_composite,8781,3,2927,correct
+1934_Q2,Q2,"
+1934 is divisible by 2. So, 1934 is not a prime number.
+",composite,composite,4_digit_easy_composite,1934,2,967,correct
+7053_Q2,Q2,"
+7053 is divisible by 3 because the sum of its digits is 15, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,7053,3,2351,correct
+1623_Q2,Q2,"
+1623 is divisible by 3 because the sum of its digits is 7, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,1623,3,541,correct
+5277_Q2,Q2,"
+5277 is divisible by 3 because the sum of its digits is 16, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,5277,3,1759,correct
+8098_Q2,Q2,"
+8098 is divisible by 2. So, 8098 is not a prime number.
+",composite,composite,4_digit_easy_composite,8098,2,4049,correct
+3207_Q2,Q2,"
+3207 is divisible by 3. 3207 is not a prime number.
+",composite,composite,4_digit_easy_composite,3207,3,1069,correct
+3459_Q2,Q2,"
+3459 is divisible by 3 because the sum of its digits is 12, which is divisible by 3. So, the final answer is no.
+",composite,composite,4_digit_easy_composite,3459,3,1153,correct
+4499_Q2,Q2,"
+4499 is divisible by 11. 4499 is not a prime number.
+",composite,composite,4_digit_medium_composite,4499,11,409,correct
+2519_Q4,Q4,"
+2519 is divisible by 11. 2519 / 11 = 229. 229 is a prime number. So 2519 is a composite number.
+",composite,composite,4_digit_medium_composite,2519,11,229,correct
+1391_Q2,Q2,"
+1391 is divisible by 13. 1391 is not a prime number.
+",composite,composite,4_digit_medium_composite,1391,13,107,correct
+1441_Q4,Q4,"
+1441 is divisible by 11. 1441 / 11 = 131. 131 is a prime number. So 1441 is a composite number. The final answer: yes.
+",composite,composite,4_digit_medium_composite,1441,11,131,correct
+8401_Q2,Q2,"
+8401 is divisible by 1, 8401, and 31. 8401 is not prime.
+",composite,composite,4_digit_medium_composite,8401,31,271,correct
+1661_Q4,Q4,"
+1661 is divisible by 11. 1661 / 11 = 151. 151 is prime. So 1661 is a composite number. The final answer: yes.
+",composite,composite,4_digit_medium_composite,1661,11,151,correct
+9691_Q2,Q2,"
+9691 is divisible by 11. 9691 is not a prime number.
+",composite,composite,4_digit_medium_composite,9691,11,881,correct
+7711_Q4,Q4,"
+7711 is divisible by 11. 7711 is a composite number.
+",composite,composite,4_digit_medium_composite,7711,11,701,correct
+1111_Q2,Q2,"
+1111 is divisible by 11. 1111 is not a prime number.
+",composite,composite,4_digit_medium_composite,1111,11,101,correct
+1111_Q4,Q4,"
+1111 is divisible by 11. 1111 is a composite number.
+",composite,composite,4_digit_medium_composite,1111,11,101,correct
+4411_Q2,Q2,"
+4411 is divisible by 11. 4411 is not a prime number.
+",composite,composite,4_digit_medium_composite,4411,11,401,correct
+1751_Q2,Q2,"
+1751 is divisible by 17. 1751 is not a prime number.
+",composite,composite,4_digit_medium_composite,1751,17,103,correct
+1751_Q4,Q4,"
+1751 is divisible by 17. 1751 is a composite number.
+",composite,composite,4_digit_medium_composite,1751,17,103,correct
+1339_Q2,Q2,"
+1339 is divisible by 13. 1339 is not a prime number.
+",composite,composite,4_digit_medium_composite,1339,13,103,correct
